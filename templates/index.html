@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Car Price Predictor</title>
+    <link rel="icon" href="./assests/car.png" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Limelight&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: "Segoe UI", sans-serif;
+      }
+      body {
+        background: #0a0a0a;
+        color: #f0f0f0;
+        padding: 2rem;
+      }
+      h1 {
+        text-align: center;
+        margin-bottom: 2rem;
+        font-family: sans-serif;
+        text-transform: uppercase;
+        font-size: 2.5rem;
+      }
+      form {
+        max-width: 800px;
+        margin: auto;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+        gap: 1.5rem;
+        background-color: #1a1a1a;
+        padding: 2rem;
+        border-radius: 1rem;
+      }
+      label {
+        font-size: 0.9rem;
+        display: block;
+        margin-bottom: 0.4rem;
+      }
+      select,
+      input {
+        width: 100%;
+        padding: 0.6rem;
+        border-radius: 0.5rem;
+        border: none;
+        background: #2a2a2a;
+        color: white;
+      }
+      button {
+        grid-column: 1 / -1;
+        padding: 0.75rem 1.5rem;
+        font-size: 1.1rem;
+        background: #000;
+        color: white;
+        border: none;
+        border-radius: 0.6rem;
+        cursor: pointer;
+        transition: 0.3s ease;
+      }
+      button:hover {
+        background-color: #333;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Car Price Predictor</h1>
+    <form action="/predict" method="post">
+      <div>
+        <label for="make">Make</label>
+        <select name="make" id="make">
+          {% for val in options.make %}<option value="{{ val }}">{{ val }}</option>{% endfor %}
+        </select>
+      </div>
+      <div>
+        <label for="model">Model</label>
+        <select name="model" id="model">
+          {% for val in options.model %}<option value="{{ val }}">{{ val }}</option>{% endfor %}
+        </select>
+      </div>
+      <div>
+        <label for="year">Year</label>
+        <select name="year" id="year">
+          {% for val in options.year %}<option value="{{ val }}">{{ val }}</option>{% endfor %}
+        </select>
+      </div>
+      <div>
+        <label for="fuel">Fuel</label>
+        <select name="fuel" id="fuel">
+          {% for val in options.fuel %}<option value="{{ val }}">{{ val }}</option>{% endfor %}
+        </select>
+      </div>
+      <div>
+        <label for="cylinders">Cylinders</label>
+        <select name="cylinders" id="cylinders">
+          {% for val in options.cylinders %}<option value="{{ val }}">{{ val }}</option>{% endfor %}
+        </select>
+      </div>
+      <div>
+        <label for="transmission_type">Transmission Type</label>
+        <select name="transmission_type" id="transmission_type">
+          {% for val in options.transmission_type %}<option value="{{ val }}">{{ val }}</option>{% endfor %}
+        </select>
+      </div>
+      <div>
+        <label for="transmission_speed">Transmission Speed</label>
+        <select name="transmission_speed" id="transmission_speed">
+          {% for val in options.transmission_speed %}<option value="{{ val }}">{{ val }}</option>{% endfor %}
+        </select>
+      </div>
+      <div>
+        <label for="mileage">Mileage</label>
+        <input type="number" name="mileage" id="mileage" required />
+      </div>
+      <div>
+        <label for="trim">Trim</label>
+        <select name="trim" id="trim">
+          {% for val in options.trim %}<option value="{{ val }}">{{ val }}</option>{% endfor %}
+        </select>
+      </div>
+      <div>
+        <label for="body">Body Type</label>
+        <select name="body" id="body">
+          {% for val in options.body %}<option value="{{ val }}">{{ val }}</option>{% endfor %}
+        </select>
+      </div>
+      <div>
+        <label for="doors">Doors</label>
+        <select name="doors" id="doors">
+          {% for val in options.doors %}<option value="{{ val }}">{{ val }}</option>{% endfor %}
+        </select>
+      </div>
+       <div>
+        <label for="valve_type_simplified">Valve type</label>
+        <select name="valve_type_simplified" id="valve_type_simplified">
+          {% for val in options.valve_type_simplified %}<option value="{{ val }}">{{ val }}</option>{% endfor %}
+        </select>
+      </div>
+      <div>
+        <label for="exterior_combo_interior">Exterior Color</label>
+        <select name="exterior_combo_interior" id="exterior_combo_interior">
+          {% for val in options.ext_color %}<option value="{{ val }}">{{ val }}</option>{% endfor %}
+        </select>
+      </div>
+      <div>
+        <label for="drivetrain">Drivetrain</label>
+        <select name="drivetrain" id="drivetrain">
+          {% for val in options.drivetrain %}<option value="{{ val }}">{{ val }}</option>{% endfor %}
+        </select>
+      </div>
+      <button type="submit">Predict Price</button>
+    </form>
+  {% if prediction %}
+  <h2 style="text-align:center; margin-top: 2rem;">
+     Predicted Vehicle Price: {{ prediction }} ₹
+  </h2>
+{% endif %}
+  </body>
+<script>
+
+    </script>
+</html>

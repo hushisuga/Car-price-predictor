@@ -1,0 +1,977 @@
+make,model,year,cylinders,fuel,mileage,trim,body,doors,drivetrain,log_price,valve_type_simplified,transmission_type,transmission_speed,exterior_combo_interior
+Jeep,Wagoneer,2024,6.0,Gasoline,10000.0,Series II,SUV,4.0,4WD,11.219909190927746,DOHC,Automatic,8.0,White_Interior_Black
+Jeep,Grand Cherokee,2024,6.0,Gasoline,1000.0,Laredo,SUV,4.0,4WD,10.82319244951007,Unknown,Automatic,8.0,Other_Interior_Black
+GMC,Other,2024,8.0,Gasoline,8000.0,Denali,SUV,4.0,4WD,11.476375581972645,Unknown,Automatic,8.0,White_Interior_Other
+Dodge,Durango,2023,8.0,Gasoline,32000.0,Pursuit,SUV,4.0,AWD,10.754407416968615,Unknown,Automatic,8.0,White_Interior_Black
+RAM,3500,2024,6.0,Diesel,10000.0,Laramie,Pickup Truck,4.0,4WD,11.310368547264407,Unknown,Automatic,6.0,Silver_Interior_Black
+Nissan,Other,2024,6.0,Gasoline,8000.0,Platinum,SUV,4.0,AWD,10.736418414365376,DOHC,CVT,8.0,White_Interior_Gray
+Jeep,Wagoneer,2024,6.0,Gasoline,5000.0,Base,SUV,4.0,RWD,11.06449544292921,DOHC,Automatic,8.0,White_Interior_Black
+Ford,Other,2024,8.0,Diesel,15000.0,Other,Pickup Truck,4.0,4WD,11.407331588752612,Unknown,Automatic,10.0,Gray_Interior_Black
+Hyundai,Tucson Hybrid,2024,4.0,Hybrid,5000.0,Limited,SUV,4.0,AWD,10.650909827496076,DOHC,Automatic,6.0,White_Interior_Black
+Jeep,Grand Cherokee,2024,6.0,Gasoline,20000.0,Altitude,SUV,4.0,4WD,10.663685720345683,DOHC,Automatic,8.0,Silver_Interior_Black
+Jeep,Compass,2024,4.0,Gasoline,8000.0,Latitude,SUV,4.0,4WD,10.538581801647457,DOHC,Automatic,8.0,Other_Interior_Black
+RAM,3500,2024,6.0,Diesel,8000.0,Tradesman,Pickup Truck,4.0,4WD,11.01707055213406,Unknown,Automatic,8.0,Other_Interior_Black
+Hyundai,Santa Cruz,2024,4.0,Gasoline,1000.0,Other,Pickup Truck,4.0,AWD,10.678675443432283,DOHC,Automatic,8.0,Other_Interior_Gray
+Jeep,Grand Cherokee,2024,6.0,Gasoline,12000.0,Altitude,SUV,4.0,4WD,10.692467503598817,DOHC,Automatic,8.0,Gray_Interior_Black
+Chevrolet,Other,2024,0.0,Electric,4000.0,Other,SUV,4.0,AWD,10.85313568806428,Unknown,Automatic,1.0,Gray_Interior_Black
+Hyundai,Santa Cruz,2024,4.0,Gasoline,12000.0,2.5T XRT,Pickup Truck,4.0,AWD,10.56035967723136,DOHC,Automatic,8.0,Blue_Interior_Black
+Nissan,Other,2024,6.0,Gasoline,87000.0,Platinum,SUV,4.0,AWD,10.778977123006351,DOHC,CVT,8.0,Blue_Interior_Other
+Ford,Other,2024,4.0,Gasoline,15000.0,Other,SUV,4.0,4WD,10.88164448808605,DOHC,Automatic,10.0,White_Interior_Black
+Volkswagen,Taos,2024,4.0,Gasoline,25000.0,1.5T SE,SUV,4.0,AWD,10.396719307901071,DOHC,Automatic,7.0,Blue_Interior_Black
+Volkswagen,Jetta,2024,4.0,Gasoline,13000.0,Other,Sedan,4.0,FWD,10.100246059905626,DOHC,Automatic,8.0,Silver_Interior_Black
+RAM,3500,2024,6.0,Diesel,8000.0,Tradesman,Pickup Truck,4.0,4WD,11.085552114313185,Unknown,Automatic,8.0,White_Interior_Black
+Dodge,Hornet,2024,4.0,Hybrid,5000.0,R/T,SUV,4.0,AWD,10.58385339873134,DOHC,Automatic,6.0,Other_Interior_Black
+Hyundai,Other,2024,4.0,Gasoline,11000.0,SEL,SUV,4.0,FWD,10.319100991696107,DOHC,Automatic,8.0,White_Interior_Black
+GMC,Other,2024,4.0,Gasoline,8000.0,Denali,SUV,4.0,AWD,10.694691138568423,DOHC,Automatic,8.0,Other_Interior_Other
+Hyundai,Santa Cruz,2024,4.0,Gasoline,1000.0,2.5L SEL,Pickup Truck,4.0,AWD,10.409129765609965,DOHC,Automatic,8.0,Blue_Interior_Black
+Ford,Other,2024,4.0,Gasoline,7000.0,XLT,SUV,4.0,RWD,10.619887284906223,DOHC,Automatic,10.0,White_Interior_Black
+Jeep,Compass,2024,4.0,Gasoline,12000.0,Limited,SUV,4.0,4WD,10.436612683796886,DOHC,Automatic,8.0,Gray_Interior_Black
+Chrysler,Other,2024,6.0,Gasoline,8000.0,Other,Passenger Van,4.0,AWD,10.7935575047672,DOHC,Automatic,9.0,Black_Interior_Black
+Chevrolet,Other,2024,0.0,Electric,6000.0,Other,SUV,4.0,AWD,10.86266534521266,Unknown,Automatic,1.0,Red_Interior_Black
+RAM,2500,2024,8.0,Gasoline,8000.0,Tradesman,Pickup Truck,4.0,4WD,10.9828490616121,Unknown,Automatic,8.0,Other_Interior_Black
+Nissan,Other,2024,6.0,Gasoline,2000.0,SV,SUV,4.0,FWD,10.593329276087347,DOHC,CVT,8.0,White_Interior_Other
+Ford,Other,2024,6.0,Gasoline,10000.0,Other,Cargo Van,3.0,RWD,10.889229717408499,DOHC,Automatic,8.0,White_Interior_Gray
+Jeep,Grand Cherokee 4xe,2023,4.0,Hybrid,185000.0,Trailhawk,SUV,4.0,4WD,10.994537988996948,DOHC,Automatic,8.0,Black_Interior_Black
+Kia,Other,2024,0.0,Electric,13000.0,GT,SUV,4.0,AWD,10.816191860874863,Unknown,Automatic,8.0,Blue_Interior_Black
+Volkswagen,Jetta,2024,4.0,Gasoline,5000.0,Other,Sedan,4.0,FWD,10.21008950984042,DOHC,Automatic,8.0,Silver_Interior_Black
+Ford,Mustang Mach-E,2024,0.0,Electric,5000.0,Premium,SUV,4.0,AWD,10.774592616232963,Unknown,Automatic,1.0,Blue_Interior_Black
+Chevrolet,Silverado 1500,2024,8.0,Gasoline,8000.0,Other,Pickup Truck,4.0,4WD,10.978677671259746,Unknown,Automatic,8.0,White_Interior_Black
+Kia,Other,2024,4.0,Gasoline,16000.0,EX,SUV,4.0,AWD,10.296913817032536,DOHC,CVT,8.0,Gray_Interior_Black
+Chevrolet,Other,2024,6.0,Gasoline,9000.0,Other,SUV,4.0,AWD,10.685743908167849,DOHC,Automatic,9.0,Other_Interior_Black
+GMC,Other,2024,4.0,Gasoline,8000.0,Other,SUV,4.0,AWD,10.48768444858769,DOHC,Automatic,8.0,White_Interior_Other
+RAM,3500,2024,6.0,Diesel,15000.0,Tradesman,Pickup Truck,4.0,4WD,11.077068157441543,Unknown,Automatic,8.0,White_Interior_Black
+Jeep,Other,2024,4.0,Gasoline,10000.0,Other,SUV,4.0,4WD,10.757349536135969,DOHC,Automatic,8.0,Blue_Interior_Black
+Jeep,Grand Cherokee 4xe,2024,4.0,Hybrid,1000.0,Trailhawk,SUV,4.0,4WD,10.913377911143433,DOHC,Automatic,8.0,Silver_Interior_Black
+Mazda,CX-90 PHEV,2024,4.0,Hybrid,7000.0,Preferred,SUV,4.0,AWD,10.837932494990325,DOHC,Automatic,8.0,Gray_Interior_Black
+Acura,MDX,2024,6.0,Gasoline,16000.0,Other,SUV,4.0,AWD,11.091269997463336,Other,Automatic,10.0,Gray_Interior_Other
+Jeep,Compass,2024,4.0,Gasoline,7000.0,Latitude,SUV,4.0,4WD,10.270246481762213,DOHC,Automatic,8.0,Black_Interior_Black
+Dodge,Durango,2023,8.0,Gasoline,21000.0,Pursuit,SUV,4.0,AWD,10.754407416968615,Unknown,Automatic,8.0,Black_Interior_Black
+Subaru,Other,2024,4.0,Gasoline,8000.0,Other,SUV,4.0,AWD,10.699980720954688,DOHC,CVT,8.0,Other_Interior_Gray
+Volkswagen,Other,2024,4.0,Gasoline,11000.0,Other,SUV,4.0,AWD,10.853638501898386,DOHC,Automatic,8.0,Silver_Interior_Other
+Hyundai,IONIQ 5,2024,0.0,Electric,14000.0,Other,SUV,4.0,RWD,10.696389566233066,Unknown,Automatic,1.0,Other_Interior_Gray
+Audi,Other,2024,0.0,Electric,5000.0,Other,SUV,4.0,AWD,11.369874620079596,Unknown,Automatic,8.0,White_Interior_Other
+Volkswagen,Jetta,2024,4.0,Gasoline,6000.0,Other,Sedan,4.0,FWD,10.100246059905626,DOHC,Automatic,8.0,White_Interior_Black
+Hyundai,Other,2024,4.0,Hybrid,14000.0,Limited,Sedan,4.0,FWD,10.56800375029692,DOHC,Automatic,6.0,Gray_Interior_Gray
+Kia,Other,2024,0.0,Electric,1000.0,Other,SUV,4.0,RWD,10.866451924607954,Unknown,Automatic,1.0,Black_Interior_Gray
+Dodge,Durango,2024,8.0,Gasoline,15000.0,R/T,SUV,4.0,AWD,10.980365349058232,Unknown,Automatic,8.0,Other_Interior_Black
+Dodge,Hornet,2024,4.0,Gasoline,5000.0,Other,SUV,4.0,AWD,10.665600937560797,DOHC,Automatic,6.0,Other_Interior_Black
+Dodge,Hornet,2024,4.0,Gasoline,10000.0,GT,SUV,4.0,AWD,10.462846164547514,DOHC,Automatic,9.0,Other_Interior_Black
+Kia,Other,2024,4.0,Hybrid,9000.0,EX,SUV,4.0,AWD,10.458406613812631,Unknown,Automatic,8.0,Gray_Interior_Black
+GMC,Other,2024,4.0,Gasoline,8000.0,Other,SUV,4.0,AWD,10.48768444858769,DOHC,Automatic,8.0,White_Interior_Other
+Ford,Other,2024,6.0,Gasoline,8000.0,XLT,SUV,4.0,4WD,11.155621751969083,DOHC,Automatic,10.0,Silver_Interior_Black
+Dodge,Hornet,2024,4.0,Hybrid,5000.0,R/T,SUV,4.0,AWD,10.586129748450926,DOHC,Automatic,6.0,Blue_Interior_Black
+Volkswagen,Other,2024,4.0,Gasoline,8000.0,Other,SUV,4.0,AWD,10.802977945731937,DOHC,Automatic,8.0,Other_Interior_Black
+Hyundai,IONIQ 5,2024,0.0,Electric,10000.0,Limited,SUV,4.0,RWD,10.92172096592159,Unknown,Automatic,1.0,Gray_Interior_Black
+Jeep,Grand Cherokee L,2024,6.0,Gasoline,8000.0,Limited,SUV,4.0,RWD,10.84663440857928,DOHC,Automatic,8.0,White_Interior_Black
+Hyundai,Other,2024,4.0,Gasoline,5000.0,Limited,SUV,4.0,AWD,10.608439778545836,Unknown,Automatic,8.0,Silver_Interior_Gray
+BMW,Other,2024,6.0,Gasoline,10000.0,Other,SUV,4.0,AWD,11.401446268304225,DOHC,Automatic,8.0,Black_Interior_Other
+Jeep,Compass,2024,4.0,Gasoline,7000.0,Latitude,SUV,4.0,4WD,10.270246481762213,DOHC,Automatic,8.0,Other_Interior_Black
+Toyota,Other,2024,6.0,Hybrid,8000.0,Limited,Pickup Truck,4.0,4WD,11.04039063493696,DOHC,Automatic,10.0,Other_Interior_Black
+Hyundai,IONIQ 5,2024,0.0,Electric,7000.0,SE,SUV,4.0,AWD,10.645805777102522,Unknown,Automatic,1.0,Black_Interior_Black
+Nissan,Kicks,2024,4.0,Gasoline,10000.0,SV,SUV,4.0,FWD,10.106469212026385,DOHC,CVT,8.0,White_Interior_Other
+Buick,Other,2024,3.0,Gasoline,6000.0,Preferred,SUV,4.0,FWD,10.206403005628498,DOHC,Automatic,6.0,Red_Interior_Black
+Acura,MDX,2024,6.0,Gasoline,5000.0,Base,SUV,4.0,FWD,10.852168027211935,Other,Automatic,10.0,Black_Interior_Other
+Nissan,Other,2024,3.0,Gasoline,4000.0,SV,SUV,4.0,AWD,10.490607328450544,DOHC,Automatic,8.0,Other_Interior_Other
+Jeep,Wagoneer,2024,6.0,Gasoline,8000.0,Base,SUV,4.0,4WD,11.051810216769898,DOHC,Automatic,8.0,Other_Interior_Black
+Nissan,Other,2024,3.0,Gasoline,5000.0,SV,SUV,4.0,AWD,10.502488875205843,DOHC,Automatic,8.0,Blue_Interior_Other
+Jeep,Wagoneer L,2024,6.0,Gasoline,5000.0,Other,SUV,4.0,4WD,11.363705940321378,Unknown,Automatic,8.0,Red_Interior_Black
+Kia,Sportage,2024,4.0,Gasoline,8000.0,S,SUV,4.0,FWD,10.238887786196006,DOHC,Automatic,8.0,Gray_Interior_Black
+Acura,MDX,2024,6.0,Gasoline,5000.0,Base,SUV,4.0,FWD,10.852168027211935,Other,Automatic,10.0,White_Interior_Other
+RAM,3500,2024,6.0,Diesel,13000.0,Tradesman,Pickup Truck,4.0,4WD,11.05443925488481,Unknown,Automatic,8.0,White_Interior_Black
+Dodge,Durango,2023,8.0,Gasoline,32000.0,Pursuit,SUV,4.0,AWD,10.774487988550476,Unknown,Automatic,8.0,Black_Interior_Black
+Nissan,Other,2024,6.0,Gasoline,5000.0,Platinum,SUV,4.0,AWD,10.736418414365376,DOHC,CVT,8.0,Blue_Interior_Other
+GMC,Other,2024,8.0,Gasoline,8000.0,Denali,SUV,4.0,4WD,11.476375581972645,Unknown,Automatic,8.0,White_Interior_Other
+Nissan,Other,2024,3.0,Gasoline,3000.0,Other,SUV,4.0,AWD,10.625732263919769,DOHC,Automatic,8.0,Gray_Interior_Other
+Dodge,Hornet,2024,4.0,Hybrid,5000.0,R/T,SUV,4.0,AWD,10.70819846893854,DOHC,Automatic,6.0,Blue_Interior_Black
+Jeep,Grand Cherokee L,2024,6.0,Gasoline,8000.0,Limited,SUV,4.0,4WD,10.807523500343269,Unknown,Automatic,8.0,Black_Interior_Black
+Jeep,Compass,2024,4.0,Gasoline,9000.0,Latitude,SUV,4.0,4WD,10.270246481762213,DOHC,Automatic,8.0,Other_Interior_Black
+Mercedes-Benz,Other,2024,0.0,Electric,8000.0,Base,Sedan,4.0,RWD,11.245516497358004,Unknown,Automatic,1.0,White_Interior_Gray
+Buick,Other,2024,3.0,Gasoline,8000.0,Other,SUV,4.0,FWD,10.367410230215862,DOHC,Automatic,6.0,Blue_Interior_Black
+Dodge,Durango,2024,6.0,Gasoline,12000.0,GT,SUV,4.0,RWD,10.69559732562212,DOHC,Automatic,8.0,Gray_Interior_Black
+Hyundai,Other,2024,4.0,Gasoline,8000.0,SEL,Sedan,4.0,AWD,10.256606180272083,DOHC,Automatic,8.0,White_Interior_Gray
+RAM,3500,2024,6.0,Diesel,13000.0,Tradesman,Pickup Truck,4.0,4WD,10.984122546973575,Unknown,Automatic,6.0,White_Interior_Black
+GMC,Other,2024,4.0,Gasoline,8000.0,Other,SUV,4.0,AWD,10.469851945892822,DOHC,Automatic,9.0,Other_Interior_Black
+Jeep,Wagoneer,2024,6.0,Gasoline,5000.0,Base,SUV,4.0,RWD,11.011323835731769,DOHC,Automatic,8.0,Black_Interior_Black
+Ford,Other,2024,4.0,Gasoline,8000.0,Other,Pickup Truck,4.0,4WD,10.564653749740895,DOHC,Automatic,10.0,Gray_Interior_Black
+RAM,3500,2024,6.0,Diesel,6000.0,Other,Pickup Truck,4.0,4WD,11.102472940351017,Other,Automatic,8.0,White_Interior_Black
+Audi,Other,2024,4.0,Gasoline,12000.0,Other,SUV,4.0,AWD,11.19850234999397,DOHC,Automatic,7.0,Gray_Interior_Black
+RAM,3500,2024,6.0,Diesel,12000.0,Laramie,Pickup Truck,4.0,4WD,11.402619406919388,Unknown,Automatic,8.0,White_Interior_Black
+RAM,3500,2024,6.0,Diesel,9000.0,Tradesman,Pickup Truck,4.0,4WD,11.0869923082222,Unknown,Automatic,6.0,White_Interior_Black
+Mazda,CX-90 PHEV,2024,4.0,Hybrid,8000.0,Premium Plus,SUV,4.0,AWD,10.978489975565104,DOHC,Automatic,8.0,Other_Interior_Black
+Ford,Mustang Mach-E,2023,0.0,Electric,12000.0,GT,SUV,4.0,AWD,10.829213631196769,Unknown,Automatic,1.0,Red_Interior_Gray
+Dodge,Hornet,2024,4.0,Hybrid,8000.0,R/T Plus,SUV,4.0,AWD,10.762890422203235,DOHC,Automatic,6.0,Other_Interior_Black
+Chevrolet,Silverado 1500,2024,4.0,Gasoline,2000.0,Other,Pickup Truck,4.0,4WD,10.695619969780495,DOHC,Automatic,8.0,Black_Interior_Black
+Chevrolet,Silverado 1500,2024,8.0,Gasoline,2000.0,LT,Pickup Truck,4.0,4WD,10.809667340659555,Unknown,Automatic,8.0,Black_Interior_Black
+Chevrolet,Silverado 1500,2024,4.0,Gasoline,2000.0,Other,Pickup Truck,4.0,4WD,10.679964340683078,DOHC,Automatic,8.0,Black_Interior_Black
+Dodge,Charger,2023,6.0,Gasoline,20000.0,SXT,Sedan,4.0,RWD,10.49360483277653,DOHC,Automatic,8.0,White_Interior_Black
+Chevrolet,Silverado 1500,2024,8.0,Gasoline,148000.0,Other,Pickup Truck,4.0,4WD,10.907056292517344,Unknown,Automatic,8.0,Gray_Interior_Black
+Mercedes-Benz,Other,2024,4.0,Diesel,58000.0,Other,Cargo Van,3.0,RWD,11.003132641016187,DOHC,Automatic,9.0,Gray_Interior_Black
+Jeep,Compass,2024,4.0,Gasoline,1000.0,Latitude,SUV,4.0,4WD,10.270488994192164,DOHC,Automatic,8.0,Gray_Interior_Black
+Honda,Other,2024,4.0,Hybrid,1000.0,Other,SUV,4.0,AWD,10.645567744205252,DOHC,CVT,8.0,Red_Interior_Black
+Hyundai,Other,2024,0.0,Electric,12000.0,SEL,Sedan,4.0,RWD,10.714551093197692,Unknown,Automatic,8.0,White_Interior_Black
+Hyundai,Tucson Hybrid,2024,4.0,Hybrid,5000.0,SEL Convenience,SUV,4.0,AWD,10.487517168560535,DOHC,Automatic,6.0,Gray_Interior_Black
+Jeep,Compass,2023,4.0,Gasoline,8000.0,Latitude,SUV,4.0,4WD,10.308985993422082,DOHC,Automatic,8.0,Red_Interior_Other
+Kia,Sportage,2024,4.0,Gasoline,10000.0,X-Line,SUV,4.0,AWD,10.434145214930487,DOHC,Automatic,8.0,White_Interior_Black
+Jeep,Compass,2024,4.0,Gasoline,6000.0,Sport,SUV,4.0,4WD,10.286809295958603,DOHC,Automatic,8.0,Blue_Interior_Black
+Ford,Other,2024,6.0,Gasoline,59000.0,Base,Cargo Van,3.0,AWD,10.92676547631263,DOHC,Automatic,10.0,Red_Interior_Black
+Audi,Other,2024,0.0,Electric,5000.0,Premium,SUV,4.0,AWD,11.334169543735626,Unknown,Automatic,8.0,White_Interior_Other
+Jeep,Other,2024,6.0,Gasoline,15000.0,Other,SUV,4.0,4WD,10.993008641192457,DOHC,Automatic,8.0,Other_Interior_Black
+Jeep,Grand Cherokee,2024,6.0,Gasoline,14000.0,Laredo,SUV,4.0,4WD,10.589484229067233,DOHC,Automatic,8.0,White_Interior_Black
+Chevrolet,Silverado 1500,2024,8.0,Gasoline,2000.0,LT,Pickup Truck,4.0,4WD,10.812330619275127,Unknown,Automatic,8.0,Red_Interior_Black
+Hyundai,Tucson Hybrid,2024,4.0,Hybrid,25000.0,Blue,SUV,4.0,AWD,10.406986400915658,DOHC,Automatic,6.0,Gray_Interior_Gray
+Mercedes-Benz,Other,2024,0.0,Electric,9000.0,Base,Sedan,4.0,RWD,11.28685262748344,Unknown,Automatic,1.0,Blue_Interior_Gray
+Dodge,Charger,2023,8.0,Gasoline,18000.0,Other,Sedan,4.0,RWD,11.08331109662906,Unknown,Automatic,8.0,Blue_Interior_Black
+Jeep,Compass,2024,4.0,Gasoline,9000.0,Limited,SUV,4.0,4WD,10.57082962691412,DOHC,Automatic,8.0,Black_Interior_Black
+Hyundai,Other,2024,4.0,Gasoline,1000.0,Other,SUV,4.0,AWD,10.817896514992265,DOHC,Automatic,8.0,Other_Interior_Black
+Jeep,Grand Cherokee 4xe,2024,4.0,Gasoline,3000.0,Other,SUV,4.0,4WD,10.972258999193217,DOHC,Automatic,8.0,Other_Interior_Black
+Volkswagen,Taos,2024,4.0,Gasoline,3000.0,1.5T SE,SUV,4.0,AWD,10.239924074233857,DOHC,Automatic,7.0,Silver_Interior_Black
+Chevrolet,Equinox,2024,4.0,Gasoline,8000.0,Other,SUV,4.0,FWD,10.147060985361845,DOHC,Automatic,6.0,White_Interior_Gray
+Subaru,Other,2024,4.0,,5000.0,Premium,SUV,4.0,AWD,10.59500841135149,Unknown,Automatic,1.0,Other_Interior_Black
+Jeep,Wrangler 4xe,2024,4.0,Hybrid,5000.0,Rubicon,SUV,4.0,4WD,11.11186563934097,DOHC,Automatic,8.0,Other_Interior_Black
+Mazda,CX-90 PHEV,2024,4.0,Gasoline,5000.0,Base,SUV,4.0,AWD,10.885491115775624,DOHC,Automatic,8.0,White_Interior_Other
+Hyundai,IONIQ 5,2024,0.0,Electric,12000.0,Other,SUV,4.0,AWD,11.031270218504018,Unknown,Automatic,8.0,Other_Interior_Gray
+RAM,Other,2024,6.0,Gasoline,1000.0,High Roof,Cargo Van,3.0,FWD,10.8831849152016,DOHC,Automatic,9.0,White_Interior_Black
+Lincoln,Other,2024,4.0,Gasoline,3000.0,Other,SUV,4.0,AWD,10.846653878415639,DOHC,Automatic,8.0,Black_Interior_Black
+GMC,Other,2024,6.0,Gasoline,3000.0,Other,Cargo Van,3.0,RWD,10.705399447887462,Unknown,Automatic,8.0,White_Interior_Other
+Chrysler,Other,2024,6.0,Hybrid,10000.0,Other,Passenger Van,4.0,FWD,11.01206667357142,Unknown,CVT,8.0,White_Interior_Black
+Dodge,Hornet,2024,4.0,Gasoline,10000.0,GT,SUV,4.0,AWD,10.560385600420952,DOHC,Automatic,9.0,Gray_Interior_Black
+Acura,Other,2024,0.0,Electric,8000.0,Other,SUV,4.0,AWD,11.1541196809749,Unknown,Automatic,8.0,Other_Interior_Other
+Nissan,Other,2024,4.0,Gasoline,6000.0,Other,Sedan,4.0,FWD,10.349006360101466,DOHC,CVT,8.0,Black_Interior_Other
+Hyundai,Other,2024,4.0,Hybrid,11000.0,SEL,Sedan,4.0,FWD,10.389641313496469,DOHC,Automatic,6.0,Gray_Interior_Gray
+Dodge,Charger,2023,6.0,Gasoline,20000.0,SXT,Sedan,4.0,RWD,10.486317508785204,DOHC,Automatic,8.0,Black_Interior_Black
+Mazda,CX-90 PHEV,2024,4.0,Gasoline,33000.0,Base,SUV,4.0,AWD,11.005444242454628,DOHC,Automatic,8.0,Black_Interior_Other
+Dodge,Hornet,2024,4.0,Gasoline,14000.0,GT AWD,SUV,4.0,AWD,10.505971240698727,DOHC,Automatic,9.0,Gray_Interior_Black
+Jeep,Grand Cherokee 4xe,2024,4.0,Gasoline,3000.0,Other,SUV,4.0,4WD,11.026906268455686,DOHC,Automatic,8.0,Silver_Interior_Black
+Mazda,CX-90 PHEV,2024,4.0,Gasoline,2000.0,Base,SUV,4.0,AWD,10.995846999538472,DOHC,Automatic,8.0,Blue_Interior_Black
+Mercedes-Benz,Other,2024,0.0,Electric,10000.0,Base 4MATIC,SUV,4.0,AWD,11.604099831349238,Unknown,Automatic,1.0,Black_Interior_Black
+Dodge,Hornet,2024,4.0,Gasoline,8000.0,Other,SUV,4.0,AWD,10.476752620919227,DOHC,Automatic,8.0,Other_Interior_Black
+Jeep,Compass,2024,4.0,Gasoline,11000.0,Latitude,SUV,4.0,4WD,10.348205424565993,DOHC,Automatic,8.0,Silver_Interior_Black
+Jeep,Wrangler 4xe,2024,4.0,Gasoline,11000.0,Other,SUV,4.0,4WD,10.91210219155579,DOHC,Automatic,8.0,Silver_Interior_Black
+Jeep,Grand Cherokee,2024,6.0,Gasoline,13000.0,Limited,SUV,4.0,4WD,10.861227282322822,DOHC,Automatic,8.0,Other_Interior_Black
+Volkswagen,Taos,2024,4.0,Gasoline,11000.0,1.5T SE,SUV,4.0,FWD,10.373866111486937,DOHC,Automatic,8.0,White_Interior_Black
+RAM,Other,2024,6.0,Gasoline,30000.0,High Roof,Cargo Van,3.0,FWD,10.87993220723003,DOHC,Automatic,9.0,White_Interior_Black
+Dodge,Durango,2023,8.0,Gasoline,32000.0,Pursuit,SUV,4.0,AWD,10.754407416968615,Unknown,Automatic,8.0,Black_Interior_Black
+Volkswagen,Taos,2024,4.0,Gasoline,13000.0,1.5T SE,SUV,4.0,FWD,10.321671433052067,DOHC,Automatic,8.0,Black_Interior_Black
+Cadillac,Other,2024,4.0,Gasoline,10000.0,Luxury,SUV,4.0,FWD,10.755581038365076,DOHC,Automatic,9.0,White_Interior_Black
+Jeep,Grand Cherokee,2024,6.0,Gasoline,10000.0,Laredo,SUV,4.0,4WD,10.538210812958356,DOHC,Automatic,8.0,Black_Interior_Black
+Jeep,Wrangler 4xe,2024,4.0,Hybrid,4000.0,Sport,SUV,4.0,4WD,10.88810960378655,DOHC,Automatic,8.0,Other_Interior_Black
+Dodge,Charger,2023,6.0,Gasoline,20000.0,SXT,Sedan,4.0,RWD,10.531856183153893,DOHC,Automatic,8.0,Other_Interior_Black
+Dodge,Hornet,2024,4.0,Hybrid,5000.0,R/T Plus,SUV,4.0,AWD,10.70551155928146,DOHC,Automatic,6.0,Blue_Interior_Black
+Dodge,Durango,2024,6.0,Gasoline,5000.0,GT,SUV,4.0,AWD,10.715284060080414,DOHC,Automatic,8.0,Gray_Interior_Black
+Acura,MDX,2024,6.0,Gasoline,3000.0,Other,SUV,4.0,AWD,10.935888811091841,Other,Automatic,10.0,White_Interior_Other
+Jeep,Other,2024,6.0,Gasoline,12000.0,Rubicon,SUV,4.0,4WD,11.018186422218175,DOHC,Automatic,8.0,Other_Interior_Black
+Jeep,Other,2023,6.0,Gasoline,8000.0,Rubicon,Pickup Truck,4.0,4WD,10.892972982513328,DOHC,Automatic,8.0,Other_Interior_Black
+Dodge,Hornet,2024,4.0,Gasoline,11000.0,Other,SUV,4.0,AWD,10.633400512286396,DOHC,Automatic,6.0,Other_Interior_Black
+Volkswagen,Taos,2024,4.0,Gasoline,9000.0,Other,SUV,4.0,AWD,10.139033870567381,DOHC,Automatic,7.0,Silver_Interior_Black
+Dodge,Charger,2023,6.0,Gasoline,15000.0,SXT,Sedan,4.0,RWD,10.488882470601844,DOHC,Automatic,8.0,Blue_Interior_Black
+INFINITI,Other,2024,4.0,Gasoline,3000.0,Other,SUV,4.0,FWD,10.786242183190828,DOHC,Other,8.0,Gray_Interior_Gray
+Nissan,Other,2024,4.0,Gasoline,9000.0,Other,Sedan,4.0,FWD,9.952325334619427,DOHC,CVT,8.0,White_Interior_Other
+GMC,Other,2024,6.0,Gasoline,12000.0,Other,Cargo Van,3.0,RWD,10.705959879210065,Unknown,Automatic,8.0,Silver_Interior_Other
+Mercedes-Benz,Other,2024,6.0,Gasoline,10000.0,Base,SUV,4.0,AWD,11.418570828488935,DOHC,Automatic,9.0,Blue_Interior_Black
+Mazda,CX-90 PHEV,2024,4.0,Hybrid,8000.0,Premium,SUV,4.0,AWD,10.934534521708471,DOHC,Automatic,8.0,White_Interior_Black
+Ford,Other,2024,8.0,Gasoline,10000.0,Other,Pickup Truck,2.0,4WD,10.864063076520587,Unknown,Automatic,10.0,Red_Interior_Gray
+Dodge,Durango,2023,8.0,Gasoline,29000.0,Pursuit,SUV,4.0,AWD,10.754407416968615,Unknown,Automatic,8.0,White_Interior_Black
+Dodge,Hornet,2024,4.0,Hybrid,14000.0,R/T,SUV,4.0,AWD,10.668769330855273,DOHC,Automatic,6.0,Other_Interior_Black
+Jeep,Grand Cherokee 4xe,2024,4.0,Hybrid,10000.0,Trailhawk,SUV,4.0,4WD,10.913468971726102,DOHC,Automatic,8.0,White_Interior_Black
+Audi,Other,2024,4.0,Gasoline,12000.0,Other,Hatchback,4.0,AWD,10.934998037663501,DOHC,Automatic,7.0,Blue_Interior_Black
+Lincoln,Other,2024,4.0,Gasoline,8000.0,Other,SUV,4.0,AWD,11.07241850011319,DOHC,Automatic,8.0,Gray_Interior_Black
+Dodge,Durango,2023,6.0,Gasoline,32000.0,Pursuit,SUV,4.0,AWD,10.70976250536426,DOHC,Automatic,8.0,Black_Interior_Black
+Chevrolet,Other,2024,3.0,Gasoline,8000.0,RS,SUV,4.0,AWD,10.391484575362098,Unknown,Automatic,9.0,Other_Interior_Black
+BMW,Other,2024,0.0,Electric,5000.0,Other,Hatchback,4.0,RWD,11.151754715741239,Unknown,Automatic,1.0,Black_Interior_Other
+Hyundai,Santa Cruz,2024,4.0,Gasoline,11000.0,2.5L SEL,Pickup Truck,4.0,AWD,10.44380401506915,DOHC,Automatic,8.0,Other_Interior_Gray
+Dodge,Hornet,2024,4.0,Gasoline,9000.0,GT AWD,SUV,4.0,AWD,10.53025451707913,DOHC,Automatic,9.0,Other_Interior_Black
+Hyundai,Santa Cruz,2024,4.0,Gasoline,1000.0,2.5T XRT,Pickup Truck,4.0,AWD,10.645805777102522,DOHC,Automatic,8.0,Blue_Interior_Black
+Hyundai,Santa Cruz,2024,4.0,Gasoline,1000.0,2.5L SEL,Pickup Truck,4.0,AWD,10.402017898207967,DOHC,Automatic,8.0,Blue_Interior_Black
+Jeep,Wrangler 4xe,2024,4.0,Hybrid,5000.0,Other,SUV,4.0,4WD,10.965971674529177,DOHC,Automatic,8.0,Other_Interior_Black
+Jeep,Compass,2024,4.0,Gasoline,11000.0,Latitude,SUV,4.0,4WD,10.249414947928097,DOHC,Automatic,8.0,White_Interior_Black
+Volkswagen,Taos,2024,4.0,Gasoline,7000.0,1.5T SE,SUV,4.0,AWD,10.32937601028517,DOHC,Automatic,7.0,White_Interior_Gray
+Ford,Escape,2024,3.0,Gasoline,2000.0,Active,SUV,4.0,FWD,10.373053586050816,DOHC,Automatic,8.0,Gray_Interior_Black
+Ford,Other,2024,3.0,Gasoline,8000.0,Other,SUV,4.0,4WD,10.469113812768233,Unknown,Automatic,8.0,Black_Interior_Black
+Hyundai,Other,2024,4.0,Gasoline,1000.0,Other,SUV,4.0,AWD,10.65622352450773,DOHC,Automatic,8.0,Silver_Interior_Black
+Hyundai,Other,2023,0.0,Electric,12000.0,SEL,Sedan,4.0,AWD,10.855550751498411,Unknown,Automatic,1.0,Other_Interior_Gray
+Hyundai,IONIQ 5,2024,0.0,Electric,4000.0,SEL,SUV,4.0,RWD,10.815689938501677,Unknown,Automatic,1.0,Other_Interior_Gray
+Jeep,Compass,2024,4.0,Gasoline,8000.0,Latitude,SUV,4.0,4WD,10.364765725463505,DOHC,Automatic,8.0,White_Interior_Black
+Dodge,Durango,2024,6.0,Gasoline,13000.0,GT,SUV,4.0,AWD,10.711145754882038,DOHC,Automatic,8.0,Gray_Interior_Black
+Dodge,Hornet,2024,4.0,Gasoline,48000.0,GT AWD,SUV,4.0,AWD,10.38856450627934,Unknown,Automatic,8.0,Other_Interior_Black
+Dodge,Durango,2023,8.0,Gasoline,34000.0,Pursuit,SUV,4.0,AWD,10.754407416968615,Unknown,Automatic,8.0,Black_Interior_Black
+Jeep,Grand Cherokee L,2024,6.0,Gasoline,8000.0,Laredo,SUV,4.0,4WD,10.580784783666008,Other,Automatic,8.0,White_Interior_Black
+Dodge,Hornet,2024,4.0,Hybrid,1000.0,R/T,SUV,4.0,AWD,10.733021420484,DOHC,Automatic,6.0,Gray_Interior_Black
+Jeep,Wagoneer L,2024,6.0,Gasoline,16000.0,Series II,SUV,4.0,4WD,11.271414256297835,DOHC,Automatic,8.0,Other_Interior_Black
+Hyundai,Other,2024,4.0,Hybrid,13000.0,Blue,Sedan,4.0,FWD,10.206587653966265,DOHC,Automatic,8.0,White_Interior_Gray
+RAM,3500,2024,6.0,Diesel,6000.0,Other,Pickup Truck,4.0,4WD,11.337869450088004,Other,Automatic,8.0,Blue_Interior_Black
+Volkswagen,Other,2024,4.0,Gasoline,10000.0,Other,SUV,4.0,AWD,10.790184681563204,DOHC,Automatic,8.0,Silver_Interior_Other
+RAM,3500,2024,6.0,Diesel,8000.0,Other,Pickup Truck,4.0,4WD,11.302661119481185,Other,Automatic,8.0,White_Interior_Black
+Mazda,CX-90 PHEV,2024,4.0,Hybrid,8000.0,Premium,SUV,4.0,AWD,10.914178959831768,DOHC,Automatic,8.0,Other_Interior_Black
+RAM,3500,2024,6.0,Diesel,13000.0,Other,Pickup Truck,4.0,4WD,11.120815774909222,Other,Automatic,8.0,White_Interior_Black
+Mazda,CX-90 PHEV,2024,4.0,Hybrid,4000.0,Premium Plus,SUV,4.0,AWD,10.975071168816319,DOHC,Automatic,8.0,White_Interior_Black
+Lexus,Other,2024,4.0,Hybrid,21000.0,Other,SUV,4.0,AWD,11.20192017521155,Unknown,Automatic,6.0,Other_Interior_Black
+RAM,3500,2024,6.0,Diesel,5000.0,Other,Pickup Truck,4.0,4WD,11.396852216793818,Other,Automatic,6.0,White_Interior_Black
+Hyundai,IONIQ 5,2024,0.0,Electric,12000.0,SEL,SUV,4.0,AWD,10.876272032964748,Unknown,Automatic,1.0,Blue_Interior_Black
+Ford,Mustang Mach-E,2024,0.0,Electric,10000.0,Premium,SUV,4.0,AWD,10.756220615413271,Unknown,Automatic,1.0,Black_Interior_Black
+Chevrolet,Silverado 1500,2024,6.0,Diesel,8000.0,Other,Pickup Truck,4.0,4WD,11.084846581990478,DOHC,Automatic,8.0,Gray_Interior_Black
+Nissan,Other,2024,4.0,Gasoline,11000.0,Other,Sedan,4.0,FWD,9.922799863568502,DOHC,CVT,8.0,Other_Interior_Gray
+Mazda,CX-90 PHEV,2024,4.0,Hybrid,4000.0,Preferred,SUV,4.0,AWD,10.831706855275558,DOHC,Automatic,8.0,White_Interior_Other
+Ford,Mustang Mach-E,2023,0.0,Electric,11000.0,GT,SUV,4.0,AWD,10.756540250605696,Unknown,Automatic,1.0,Black_Interior_Black
+Hyundai,Other,2024,4.0,Gasoline,1000.0,Other,SUV,4.0,AWD,10.547995807489514,DOHC,Automatic,8.0,White_Interior_Gray
+Kia,Sportage,2024,4.0,Gasoline,10000.0,EX,SUV,4.0,FWD,10.34788487064608,DOHC,Automatic,8.0,White_Interior_Black
+Jeep,Wrangler 4xe,2024,4.0,Hybrid,8000.0,Sport,SUV,4.0,4WD,10.834785116516805,DOHC,Automatic,8.0,White_Interior_Black
+Hyundai,IONIQ 5,2024,0.0,Electric,8000.0,SEL,SUV,4.0,RWD,10.650222892266003,Unknown,Automatic,8.0,Other_Interior_Gray
+Honda,Other,2024,4.0,,8000.0,Other,SUV,4.0,AWD,10.929547069355774,Unknown,Automatic,1.0,Other_Interior_Gray
+Hyundai,Tucson Hybrid,2024,4.0,Hybrid,10000.0,SEL Convenience,SUV,4.0,AWD,10.474608332085875,DOHC,Automatic,6.0,White_Interior_Black
+Hyundai,Tucson Hybrid,2024,4.0,Hybrid,9000.0,Other,SUV,4.0,AWD,10.481700760003815,DOHC,Automatic,6.0,Gray_Interior_Black
+Jeep,Compass,2024,4.0,Gasoline,9000.0,Latitude,SUV,4.0,4WD,10.39393698454929,DOHC,Automatic,8.0,White_Interior_Black
+Hyundai,Other,2024,0.0,Electric,10000.0,SE,Sedan,4.0,AWD,10.836655066966722,Unknown,Automatic,8.0,White_Interior_Black
+Jeep,Wrangler 4xe,2024,4.0,Hybrid,5000.0,Rubicon,SUV,4.0,4WD,11.032645211643478,DOHC,Automatic,8.0,Other_Interior_Black
+Volkswagen,Taos,2024,4.0,Gasoline,8000.0,Other,SUV,4.0,AWD,10.16184379560608,DOHC,Automatic,7.0,Black_Interior_Black
+Nissan,Kicks,2024,4.0,Gasoline,15000.0,SR,SUV,4.0,FWD,10.188704088048116,DOHC,CVT,8.0,Other_Interior_Other
+BMW,Other,2024,0.0,Electric,7000.0,Other,Sedan,4.0,AWD,11.427650760908994,Unknown,Automatic,1.0,White_Interior_Black
+Hyundai,Santa Cruz,2024,4.0,Gasoline,1000.0,2.5L SEL,Pickup Truck,4.0,AWD,10.527445413743076,DOHC,Automatic,8.0,Gray_Interior_Gray
+Jeep,Grand Cherokee,2024,6.0,Gasoline,6000.0,Limited,SUV,4.0,4WD,10.87128855525674,DOHC,Automatic,8.0,White_Interior_Black
+Jeep,Compass,2024,4.0,Gasoline,10000.0,Limited,SUV,4.0,4WD,10.602517396254228,DOHC,Automatic,8.0,Gray_Interior_Black
+Dodge,Durango,2023,8.0,Gasoline,5000.0,Pursuit,SUV,4.0,AWD,10.754407416968615,Unknown,Automatic,8.0,Black_Interior_Black
+Hyundai,Santa Cruz,2024,4.0,Gasoline,1000.0,2.5T XRT,Pickup Truck,4.0,AWD,10.646971319984914,DOHC,Automatic,8.0,Black_Interior_Black
+Hyundai,Tucson Hybrid,2024,4.0,Hybrid,10000.0,Limited,SUV,4.0,AWD,10.592450993449742,DOHC,Automatic,6.0,Other_Interior_Black
+Jeep,Wagoneer,2024,6.0,Gasoline,8000.0,Base,SUV,4.0,4WD,11.096333684390315,DOHC,Automatic,8.0,White_Interior_Black
+Dodge,Hornet,2024,4.0,Gasoline,5000.0,Other,SUV,4.0,AWD,10.622229377757554,DOHC,Automatic,6.0,Other_Interior_Black
+Volkswagen,Taos,2024,4.0,Gasoline,13000.0,Other,SUV,4.0,AWD,10.414273175502098,DOHC,Automatic,7.0,White_Interior_Black
+Dodge,Hornet,2024,4.0,Hybrid,33000.0,R/T Plus,SUV,4.0,AWD,10.855840167555305,DOHC,Automatic,6.0,Other_Interior_Black
+GMC,Other,2024,4.0,Gasoline,8000.0,Denali,SUV,4.0,AWD,10.694691138568423,DOHC,Automatic,8.0,Other_Interior_Other
+Hyundai,IONIQ 5,2024,0.0,Electric,16000.0,SE,SUV,4.0,AWD,10.656482582714847,Unknown,Automatic,1.0,Other_Interior_Gray
+Dodge,Durango,2023,8.0,Gasoline,34000.0,Pursuit,SUV,4.0,AWD,10.765132006630253,Unknown,Automatic,8.0,Black_Interior_Black
+Jeep,Grand Cherokee L,2024,6.0,Gasoline,10000.0,Limited,SUV,4.0,4WD,10.900620672254384,Unknown,Automatic,8.0,Other_Interior_Black
+RAM,3500,2024,6.0,Diesel,49000.0,Laramie,Pickup Truck,4.0,4WD,11.367969054676237,Unknown,Automatic,8.0,Silver_Interior_Black
+Dodge,Hornet,2024,4.0,Gasoline,8000.0,Hornet R/T Plus Eawd,SUV,4.0,AWD,10.791296501974633,DOHC,Automatic,8.0,Other_Interior_Black
+Mazda,Other,2023,4.0,Gasoline,3000.0,Other,Other,2.0,RWD,10.54641980443157,DOHC,Automatic,6.0,White_Interior_Black
+Acura,MDX,2024,6.0,Gasoline,3000.0,Base,SUV,4.0,AWD,10.877122236592484,Other,Automatic,10.0,Gray_Interior_Other
+Dodge,Durango,2023,8.0,Gasoline,21000.0,Pursuit,SUV,4.0,AWD,10.754407416968615,Unknown,Automatic,8.0,Black_Interior_Black
+Jeep,Grand Cherokee L,2024,6.0,Gasoline,8000.0,Limited,SUV,4.0,4WD,10.869862848577704,Unknown,Automatic,8.0,Red_Interior_Black
+Dodge,Durango,2023,8.0,Gasoline,33000.0,Pursuit,SUV,4.0,AWD,10.765132006630253,Unknown,Automatic,8.0,White_Interior_Black
+Jeep,Wagoneer,2024,6.0,Gasoline,22000.0,Series II,SUV,4.0,4WD,11.379268350157288,DOHC,Automatic,8.0,Other_Interior_Black
+Hyundai,IONIQ 5,2024,0.0,Electric,6000.0,SE,SUV,4.0,AWD,10.689783487794095,Unknown,Automatic,1.0,Blue_Interior_Gray
+Chevrolet,Other,2024,0.0,Electric,9000.0,RS,SUV,4.0,AWD,10.916741642416737,Unknown,Automatic,1.0,Red_Interior_Black
+Mercedes-Benz,Other,2024,0.0,Electric,5000.0,Base 4MATIC,Sedan,4.0,AWD,11.611829180284683,Unknown,Automatic,8.0,Black_Interior_Black
+Jeep,Grand Cherokee,2024,6.0,Gasoline,6000.0,Laredo,SUV,4.0,4WD,10.708578531318057,Unknown,Automatic,8.0,Other_Interior_Black
+Volkswagen,Other,2024,0.0,Electric,8000.0,Other,SUV,4.0,RWD,10.638112512542383,Unknown,Other,8.0,Black_Interior_Other
+Hyundai,Santa Cruz,2024,4.0,Gasoline,1000.0,2.5T XRT,Pickup Truck,4.0,AWD,10.645329654634832,DOHC,Automatic,8.0,Gray_Interior_Black
+Honda,Other,2024,4.0,Hybrid,6000.0,Other,SUV,4.0,FWD,10.56761778402558,DOHC,Automatic,8.0,Other_Interior_Black
+Jeep,Grand Cherokee 4xe,2024,4.0,Gasoline,34000.0,Trailhawk,SUV,4.0,4WD,10.983766134515733,DOHC,Automatic,8.0,Silver_Interior_Black
+RAM,2500,2024,8.0,Gasoline,8000.0,Big Horn,Pickup Truck,4.0,4WD,11.087528021154112,Unknown,Automatic,8.0,Blue_Interior_Black
+Jeep,Grand Cherokee L,2024,6.0,Gasoline,6000.0,Altitude,SUV,4.0,4WD,10.807948588656703,DOHC,Automatic,8.0,Gray_Interior_Black
+Jeep,Wagoneer,2024,6.0,Gasoline,8000.0,Series II,SUV,4.0,4WD,11.19696736716671,DOHC,Automatic,8.0,Black_Interior_Black
+Jeep,Compass,2023,4.0,Gasoline,8000.0,Trailhawk,SUV,4.0,4WD,10.521533960586822,DOHC,Automatic,8.0,Other_Interior_Other
+Dodge,Hornet,2024,4.0,Hybrid,10000.0,R/T Plus,SUV,4.0,AWD,10.831528973842945,DOHC,Automatic,6.0,Other_Interior_Black
+Chevrolet,Other,2024,8.0,Diesel,5000.0,LT,Pickup Truck,4.0,4WD,11.158975376666717,Unknown,Automatic,8.0,Other_Interior_Other
+Chevrolet,Equinox,2024,4.0,Gasoline,5000.0,Other,SUV,4.0,FWD,10.147060985361845,DOHC,Automatic,6.0,Black_Interior_Gray
+Jeep,Other,2024,6.0,Gasoline,10000.0,Rubicon,SUV,4.0,4WD,10.994454019595349,DOHC,Automatic,8.0,White_Interior_Black
+RAM,Other,2024,6.0,Gasoline,6000.0,High Roof,Cargo Van,3.0,FWD,10.886427077357213,DOHC,Automatic,9.0,Silver_Interior_Black
+RAM,2500,2024,6.0,Diesel,17000.0,Laramie,Pickup Truck,4.0,4WD,11.285723690195164,Unknown,Automatic,6.0,White_Interior_Black
+GMC,Other,2024,8.0,Diesel,9000.0,Other,Pickup Truck,4.0,4WD,11.374536579520827,Unknown,Automatic,10.0,Other_Interior_Other
+Ford,Escape,2024,3.0,Gasoline,3000.0,Active,SUV,4.0,AWD,10.457372665762566,DOHC,Automatic,8.0,Gray_Interior_Black
+RAM,2500,2024,6.0,Diesel,5000.0,Laramie,Pickup Truck,4.0,4WD,11.114326729279341,Unknown,Automatic,6.0,White_Interior_Black
+Jeep,Grand Cherokee L,2024,6.0,Gasoline,10000.0,Laredo,SUV,4.0,4WD,10.751970424805041,Unknown,Automatic,8.0,Other_Interior_Black
+Kia,Other,2024,0.0,Electric,16000.0,Wind,SUV,4.0,AWD,10.677038913891867,Unknown,Automatic,8.0,Blue_Interior_Black
+Jeep,Grand Cherokee 4xe,2024,4.0,Hybrid,10000.0,Base,SUV,4.0,4WD,10.935247534216398,DOHC,Automatic,8.0,Other_Interior_Black
+Volkswagen,Taos,2024,4.0,Gasoline,4000.0,1.5T SE,SUV,4.0,FWD,10.246864468330871,DOHC,Automatic,8.0,Black_Interior_Black
+Mazda,CX-90 PHEV,2024,4.0,Hybrid,26000.0,Premium Plus,SUV,4.0,AWD,10.984444905965518,DOHC,Automatic,8.0,Red_Interior_Black
+Mazda,CX-90 PHEV,2024,4.0,Hybrid,9000.0,Premium,SUV,4.0,AWD,10.914178959831768,DOHC,Automatic,8.0,Red_Interior_Black
+Mazda,CX-90 PHEV,2024,4.0,Hybrid,9000.0,Premium,SUV,4.0,AWD,10.914178959831768,DOHC,Automatic,8.0,Red_Interior_Other
+Subaru,Other,2024,4.0,Gasoline,5000.0,Premium,Sedan,4.0,AWD,10.34312861911143,DOHC,CVT,8.0,Silver_Interior_Gray
+Dodge,Hornet,2024,4.0,Gasoline,8000.0,GT AWD,SUV,4.0,AWD,10.434145214930487,DOHC,Automatic,9.0,Other_Interior_Black
+Mazda,CX-90 PHEV,2024,4.0,Hybrid,10000.0,Premium,SUV,4.0,AWD,10.905038128361106,DOHC,Automatic,8.0,Other_Interior_Other
+Ford,Other,2024,8.0,Gasoline,105000.0,Other,Pickup Truck,4.0,4WD,11.26300149812105,Unknown,Automatic,10.0,Black_Interior_Black
+Jeep,Compass,2024,4.0,Gasoline,7000.0,Latitude,SUV,4.0,4WD,10.358885029392502,DOHC,Automatic,8.0,Silver_Interior_Black
+Mazda,CX-90 PHEV,2024,4.0,Hybrid,37000.0,Preferred,SUV,4.0,AWD,10.826753898146709,DOHC,Automatic,8.0,Black_Interior_Black
+Acura,MDX,2024,6.0,Gasoline,5000.0,Other,SUV,4.0,FWD,10.939266532032669,Other,Automatic,10.0,Gray_Interior_Other
+BMW,Other,2024,0.0,Electric,5000.0,Other,Hatchback,4.0,AWD,11.207364513631155,Unknown,Automatic,1.0,White_Interior_Other
+Mazda,CX-90 PHEV,2024,4.0,Hybrid,8000.0,Preferred,SUV,4.0,AWD,10.833207704721945,DOHC,Automatic,8.0,White_Interior_Black
+RAM,3500,2024,6.0,Diesel,14000.0,Tradesman,Pickup Truck,4.0,4WD,11.07468403394795,Unknown,Automatic,8.0,Other_Interior_Black
+Dodge,Hornet,2024,4.0,Gasoline,23000.0,GT,SUV,4.0,AWD,10.50454685609326,Unknown,Automatic,8.0,Gray_Interior_Black
+Audi,Other,2024,0.0,Electric,5000.0,Premium,SUV,4.0,AWD,11.405128650612053,Unknown,Automatic,8.0,White_Interior_Black
+Dodge,Durango,2023,8.0,Gasoline,33000.0,Pursuit,SUV,4.0,AWD,10.765132006630253,Unknown,Automatic,8.0,White_Interior_Black
+BMW,Other,2024,0.0,Electric,5000.0,Other,Sedan,4.0,RWD,11.612281992710349,Unknown,Automatic,1.0,Black_Interior_Black
+Volkswagen,Jetta,2024,4.0,Gasoline,9000.0,Other,Sedan,4.0,FWD,10.169882145844653,DOHC,Automatic,8.0,Silver_Interior_Black
+Dodge,Hornet,2024,4.0,Hybrid,10000.0,R/T,SUV,4.0,AWD,10.664083079084039,DOHC,Automatic,6.0,Blue_Interior_Black
+Dodge,Durango,2023,8.0,Gasoline,30000.0,Pursuit,SUV,4.0,AWD,10.754407416968615,Unknown,Automatic,8.0,White_Interior_Black
+Dodge,Durango,2023,8.0,Gasoline,35000.0,Pursuit,SUV,4.0,AWD,10.765132006630253,Unknown,Automatic,8.0,White_Interior_Black
+BMW,Other,2024,4.0,Gasoline,10000.0,Other,Sedan,4.0,AWD,10.906799661349913,DOHC,Automatic,8.0,Black_Interior_Black
+RAM,3500,2024,6.0,Diesel,13000.0,Big Horn,Pickup Truck,4.0,4WD,11.093995105908494,Unknown,Automatic,6.0,Silver_Interior_Black
+Nissan,Other,2024,3.0,Gasoline,4000.0,SV,SUV,4.0,AWD,10.443075544969771,DOHC,Automatic,8.0,Blue_Interior_Other
+Dodge,Hornet,2024,4.0,Hybrid,8000.0,R/T Plus,SUV,4.0,AWD,10.705982289931356,DOHC,Automatic,6.0,Other_Interior_Black
+Dodge,Hornet,2024,4.0,Hybrid,8000.0,R/T,SUV,4.0,AWD,10.590717259332036,DOHC,Automatic,6.0,Other_Interior_Black
+RAM,3500,2024,6.0,Diesel,6000.0,Other,Pickup Truck,4.0,4WD,11.115993842880304,Other,Automatic,8.0,Other_Interior_Black
+Honda,Other,2024,4.0,Hybrid,1000.0,Sport,SUV,4.0,AWD,10.515993929932415,DOHC,CVT,8.0,Silver_Interior_Black
+Ford,Other,2024,6.0,Gasoline,89000.0,Limited,SUV,4.0,4WD,11.411457364027745,DOHC,Automatic,10.0,White_Interior_Black
+Ford,Other,2024,6.0,Gasoline,65000.0,Other,SUV,4.0,4WD,11.33751199232379,DOHC,Automatic,10.0,Other_Interior_Black
+Audi,Other,2024,0.0,Electric,5000.0,Premium,SUV,4.0,AWD,11.344104365510093,Unknown,Automatic,8.0,White_Interior_Other
+Chevrolet,Silverado 1500,2024,8.0,Gasoline,2000.0,LT,Pickup Truck,4.0,4WD,10.81867767896625,Unknown,Automatic,8.0,Red_Interior_Black
+Kia,Sportage,2024,4.0,Gasoline,8000.0,S,SUV,4.0,AWD,10.38696253427932,DOHC,Automatic,8.0,White_Interior_Black
+Kia,Sportage,2024,4.0,Gasoline,10000.0,SX,SUV,4.0,FWD,10.407167708141248,DOHC,Automatic,8.0,Black_Interior_Black
+Kia,Sportage,2024,4.0,Gasoline,10000.0,Other,SUV,4.0,AWD,10.596409707779776,DOHC,Automatic,8.0,White_Interior_Black
+Land Rover,Other,2024,4.0,Gasoline,19000.0,Other,SUV,4.0,AWD,11.037241734449294,DOHC,Automatic,9.0,Other_Interior_Black
+Honda,Other,2024,6.0,Gasoline,4000.0,Other,Passenger Van,4.0,FWD,10.786531690616647,Other,Automatic,10.0,Silver_Interior_Gray
+RAM,2500,2024,6.0,Diesel,5000.0,Other,Pickup Truck,4.0,4WD,11.331103783217925,Unknown,Automatic,8.0,Black_Interior_Other
+Honda,Other,2024,4.0,,1000.0,Other,SUV,4.0,AWD,10.942898164853876,Unknown,Automatic,1.0,Gray_Interior_Black
+Chevrolet,Equinox,2024,4.0,Gasoline,2000.0,Other,SUV,4.0,FWD,10.348910281701418,DOHC,Automatic,6.0,White_Interior_Black
+GMC,Other,2024,8.0,Diesel,2000.0,Denali,Pickup Truck,4.0,4WD,11.360310272345556,Unknown,Automatic,10.0,White_Interior_Black
+Kia,Sportage,2024,4.0,Gasoline,8000.0,S,SUV,4.0,FWD,10.310118647284261,DOHC,Automatic,8.0,Gray_Interior_Other
+Dodge,Durango,2023,6.0,Gasoline,35000.0,Pursuit,SUV,4.0,AWD,10.695823744135065,DOHC,Automatic,8.0,White_Interior_Black
+Audi,Other,2024,4.0,Gasoline,12000.0,Other,SUV,4.0,AWD,11.156193376541639,DOHC,Automatic,7.0,Gray_Interior_Gray
+Volkswagen,Jetta,2024,4.0,Gasoline,7000.0,Other,Sedan,4.0,FWD,10.223939286317336,DOHC,Automatic,8.0,White_Interior_Black
+Nissan,Other,2024,8.0,Gasoline,10000.0,SV,Pickup Truck,4.0,4WD,10.73022549895797,DOHC,Automatic,8.0,Black_Interior_Black
+Ford,Edge,2024,4.0,Gasoline,2000.0,Other,SUV,4.0,AWD,10.662328836291437,DOHC,Automatic,8.0,Black_Interior_Black
+Hyundai,Santa Cruz,2024,4.0,Gasoline,1000.0,2.5L SEL,Pickup Truck,4.0,AWD,10.517889100523476,DOHC,Automatic,8.0,Other_Interior_Black
+Volkswagen,Jetta,2024,4.0,Gasoline,25000.0,1.5T SE,Sedan,4.0,FWD,10.178464252490356,DOHC,Automatic,8.0,White_Interior_Black
+Chevrolet,Equinox,2024,4.0,Gasoline,2000.0,Other,SUV,4.0,AWD,10.312346893712308,DOHC,Automatic,6.0,White_Interior_Black
+Jeep,Grand Cherokee 4xe,2024,4.0,Hybrid,11000.0,Base,SUV,4.0,4WD,10.913268627497622,DOHC,Automatic,8.0,Silver_Interior_Black
+Kia,Sportage,2024,4.0,Gasoline,8000.0,S,SUV,4.0,AWD,10.379690675149634,DOHC,Automatic,8.0,Other_Interior_Black
+Nissan,Other,2024,8.0,Gasoline,10000.0,SV,Pickup Truck,4.0,4WD,10.907532718597857,DOHC,Automatic,8.0,White_Interior_Black
+Jeep,Compass,2024,4.0,Gasoline,8000.0,Latitude,SUV,4.0,4WD,10.491274217438248,DOHC,Automatic,8.0,Other_Interior_Black
+Hyundai,Tucson Hybrid,2024,4.0,Hybrid,11000.0,SEL Convenience,SUV,4.0,AWD,10.515506019264599,DOHC,Automatic,6.0,White_Interior_Gray
+Dodge,Durango,2023,8.0,Gasoline,32000.0,Pursuit,SUV,4.0,AWD,10.765132006630253,Unknown,Automatic,8.0,White_Interior_Black
+INFINITI,Other,2024,4.0,Gasoline,25000.0,Other,SUV,4.0,FWD,10.715661439517714,DOHC,Other,8.0,Black_Interior_Gray
+RAM,3500,2024,6.0,Diesel,2000.0,Big Horn,Pickup Truck,4.0,4WD,11.151926901932331,Unknown,Automatic,8.0,White_Interior_Black
+Ford,Mustang Mach-E,2024,0.0,Electric,5000.0,Premium,SUV,4.0,AWD,10.80539534404283,Unknown,Automatic,1.0,Other_Interior_Black
+Dodge,Durango,2023,8.0,Gasoline,34000.0,Pursuit,SUV,4.0,AWD,10.774487988550476,Unknown,Automatic,8.0,Black_Interior_Black
+Jeep,Wrangler 4xe,2024,4.0,Gasoline,3000.0,Other,SUV,4.0,4WD,10.841226615616153,DOHC,Automatic,8.0,White_Interior_Black
+Kia,Other,2024,0.0,Electric,14000.0,Wind,SUV,4.0,AWD,10.634147257355846,Unknown,Automatic,8.0,Gray_Interior_Black
+Nissan,Kicks,2024,4.0,Gasoline,15000.0,SR,SUV,4.0,FWD,10.21833478806055,DOHC,CVT,8.0,Black_Interior_Other
+Mazda,CX-90 PHEV,2024,4.0,Gasoline,5000.0,Base,SUV,4.0,AWD,10.867539347808544,DOHC,Automatic,8.0,Blue_Interior_Other
+Hyundai,Tucson Hybrid,2024,4.0,Hybrid,5000.0,Blue,SUV,4.0,AWD,10.451637862362272,DOHC,Automatic,6.0,White_Interior_Gray
+Dodge,Durango,2023,8.0,Gasoline,39000.0,Pursuit,SUV,4.0,AWD,10.761428573021812,Unknown,Automatic,8.0,Black_Interior_Black
+Jeep,Compass,2024,4.0,Gasoline,12000.0,Limited,SUV,4.0,4WD,10.436612683796886,DOHC,Automatic,8.0,Blue_Interior_Black
+Jeep,Grand Cherokee,2024,6.0,Gasoline,6000.0,Limited,SUV,4.0,4WD,10.823471456247901,DOHC,Automatic,8.0,White_Interior_Black
+Hyundai,IONIQ 5,2024,0.0,Electric,5000.0,SEL,SUV,4.0,AWD,10.732977794273367,Unknown,Automatic,1.0,Other_Interior_Black
+Hyundai,Santa Cruz,2024,4.0,Gasoline,1000.0,Other,Pickup Truck,4.0,AWD,10.606114656295205,DOHC,Automatic,8.0,Black_Interior_Black
+Land Rover,Other,2024,4.0,Gasoline,8000.0,Other,SUV,4.0,AWD,10.921504202914962,DOHC,Automatic,9.0,White_Interior_Gray
+Mercedes-Benz,Other,2024,4.0,Diesel,9000.0,Other,Cargo Van,3.0,RWD,11.189381299547373,DOHC,Automatic,9.0,White_Interior_Black
+Hyundai,Tucson Hybrid,2024,4.0,Hybrid,10000.0,Blue,SUV,4.0,AWD,10.44851168388203,DOHC,Automatic,6.0,White_Interior_Black
+Hyundai,Santa Cruz,2024,4.0,Gasoline,10000.0,2.5T XRT,Pickup Truck,4.0,AWD,10.491301994830229,DOHC,Automatic,8.0,Other_Interior_Black
+Jeep,Compass,2024,4.0,Gasoline,8000.0,Latitude,SUV,4.0,4WD,10.491274217438248,DOHC,Automatic,8.0,Other_Interior_Black
+Jeep,Grand Cherokee,2024,6.0,Gasoline,6000.0,Limited,SUV,4.0,4WD,10.881080323786447,DOHC,Automatic,8.0,Other_Interior_Black
+Jeep,Grand Cherokee 4xe,2024,4.0,Gasoline,3000.0,Other,SUV,4.0,4WD,10.987273810085565,DOHC,Automatic,8.0,Black_Interior_Black
+Jeep,Other,2024,6.0,Gasoline,10000.0,Rubicon,SUV,4.0,4WD,11.120045826546562,DOHC,Automatic,8.0,Other_Interior_Black
+Honda,Other,2024,6.0,Gasoline,4000.0,Other,Passenger Van,4.0,FWD,10.782865306386743,Other,Automatic,10.0,Red_Interior_Other
+Volkswagen,Jetta,2024,4.0,Gasoline,25000.0,1.5T SE,Sedan,4.0,FWD,10.162924459547607,DOHC,Automatic,8.0,White_Interior_Black
+Jeep,Grand Cherokee,2024,6.0,Gasoline,6000.0,Limited,SUV,4.0,4WD,10.833740359426338,DOHC,Automatic,8.0,Other_Interior_Black
+Volvo,Other,2024,4.0,Hybrid,6000.0,Other,SUV,4.0,AWD,11.233158650714929,DOHC,Automatic,8.0,Other_Interior_Other
+Jeep,Wrangler 4xe,2024,4.0,Hybrid,7000.0,Sport,SUV,4.0,4WD,10.856033065069454,DOHC,Automatic,8.0,Other_Interior_Black
+Cadillac,Other,2024,6.0,Gasoline,31000.0,Other,SUV,4.0,FWD,11.017251144971581,DOHC,Automatic,9.0,Silver_Interior_Black
+RAM,3500,2024,6.0,Diesel,9000.0,Big Horn,Pickup Truck,4.0,4WD,11.1727985581702,Unknown,Automatic,6.0,White_Interior_Black
+Hyundai,Santa Cruz,2024,4.0,Gasoline,1000.0,2.5T XRT,Pickup Truck,4.0,AWD,10.644853305366548,DOHC,Automatic,8.0,Black_Interior_Black
+Jeep,Compass,2024,4.0,Gasoline,8000.0,Limited,SUV,4.0,4WD,10.557945878480961,DOHC,Automatic,8.0,Silver_Interior_Black
+Hyundai,Other,2024,4.0,Hybrid,10000.0,SEL,Sedan,4.0,FWD,10.389641313496469,DOHC,Automatic,6.0,Red_Interior_Gray
+Kia,Other,2023,4.0,Gasoline,16000.0,SX,SUV,4.0,AWD,10.796755277252743,DOHC,Automatic,8.0,Gray_Interior_Black
+Chevrolet,Equinox,2024,4.0,Gasoline,11000.0,Other,SUV,4.0,AWD,10.358948446965533,DOHC,Automatic,6.0,White_Interior_Gray
+Jeep,Grand Cherokee,2024,6.0,Gasoline,8000.0,Altitude,SUV,4.0,4WD,10.76164056768034,DOHC,Automatic,8.0,Other_Interior_Black
+Dodge,Hornet,2024,4.0,Hybrid,10000.0,R/T Plus,SUV,4.0,AWD,10.851005596826855,DOHC,Automatic,6.0,Other_Interior_Black
+Jeep,Wagoneer L,2023,6.0,Gasoline,8000.0,Other,SUV,4.0,4WD,11.363241461342312,DOHC,Automatic,8.0,Other_Interior_Other
+Mercedes-Benz,Other,2024,0.0,Electric,8000.0,Base 4MATIC,SUV,4.0,AWD,11.65139091508848,Unknown,Automatic,1.0,Other_Interior_Black
+Nissan,Other,2024,6.0,Gasoline,9000.0,SV,Pickup Truck,4.0,RWD,10.543945728315652,DOHC,Automatic,9.0,White_Interior_Other
+Chevrolet,Equinox,2024,4.0,Gasoline,2000.0,Other,SUV,4.0,AWD,10.351437272250447,DOHC,Automatic,6.0,Black_Interior_Black
+RAM,3500,2023,8.0,Gasoline,95000.0,Tradesman,Pickup Truck,2.0,4WD,11.051064593306913,Unknown,Automatic,8.0,White_Interior_Black
+Nissan,Other,2024,8.0,Gasoline,1000.0,SV,Pickup Truck,4.0,4WD,10.82039809228969,Unknown,Automatic,8.0,Other_Interior_Black
+GMC,Other,2024,6.0,Gasoline,8000.0,Other,Cargo Van,3.0,RWD,10.66874607044333,Unknown,Automatic,8.0,White_Interior_Other
+Chevrolet,Equinox,2024,4.0,Gasoline,8000.0,RS,SUV,4.0,FWD,10.39317125254869,DOHC,Automatic,6.0,Black_Interior_Black
+Nissan,Other,2023,8.0,Gasoline,1000.0,SV,Pickup Truck,4.0,4WD,10.750921118000695,DOHC,Automatic,8.0,Black_Interior_Black
+Honda,Other,2024,4.0,Gasoline,10000.0,LX,SUV,4.0,AWD,10.22015787614662,DOHC,Automatic,8.0,Other_Interior_Black
+Kia,Other,2024,4.0,Gasoline,13000.0,Other,SUV,4.0,FWD,10.443221281449327,DOHC,Automatic,6.0,Black_Interior_Gray
+Buick,Other,2024,3.0,Gasoline,7000.0,Other,SUV,4.0,AWD,10.49656574811856,DOHC,Automatic,9.0,Blue_Interior_Black
+Kia,Other,2024,0.0,Electric,1000.0,Other,SUV,4.0,RWD,10.866451924607954,Unknown,Automatic,1.0,Black_Interior_Gray
+Mazda,CX-90 PHEV,2024,4.0,Hybrid,4000.0,Premium Plus,SUV,4.0,AWD,10.965608732621822,DOHC,Automatic,8.0,Black_Interior_Black
+Ford,Edge,2024,4.0,Gasoline,9000.0,SEL,SUV,4.0,AWD,10.70584781806939,DOHC,Automatic,8.0,Black_Interior_Black
+Kia,Sportage,2024,4.0,Gasoline,10000.0,SX,SUV,4.0,FWD,10.46270326045021,DOHC,Automatic,8.0,Gray_Interior_Black
+Jeep,Compass,2024,4.0,Gasoline,10000.0,Latitude,SUV,4.0,4WD,10.270488994192164,DOHC,Automatic,8.0,Blue_Interior_Black
+RAM,Other,2024,6.0,Gasoline,3000.0,High Roof,Cargo Van,3.0,FWD,10.894718767073803,DOHC,Automatic,9.0,White_Interior_Black
+Hyundai,Other,2024,0.0,Electric,12000.0,SEL,Sedan,4.0,AWD,10.789545855333118,Unknown,Automatic,8.0,White_Interior_Gray
+Kia,Sportage,2024,4.0,Gasoline,10000.0,EX,SUV,4.0,FWD,10.34788487064608,DOHC,Automatic,8.0,White_Interior_Black
+Genesis,Other,2023,0.0,Electric,153000.0,Base,Sedan,4.0,AWD,11.30867726675831,Unknown,Automatic,1.0,White_Interior_Black
+Hyundai,IONIQ 5,2024,0.0,Electric,5000.0,Limited,SUV,4.0,AWD,10.868873164054001,Unknown,Automatic,1.0,Other_Interior_Black
+Hyundai,Tucson Hybrid,2024,4.0,Hybrid,33000.0,SEL Convenience,SUV,4.0,AWD,10.473477909470091,DOHC,Automatic,6.0,Black_Interior_Black
+Hyundai,Tucson Hybrid,2024,4.0,Hybrid,15000.0,Other,SUV,4.0,AWD,10.488102526272613,DOHC,Automatic,6.0,Black_Interior_Black
+Mercedes-Benz,Other,2024,6.0,Gasoline,7000.0,Other,SUV,4.0,AWD,11.357802646102229,DOHC,Automatic,9.0,Black_Interior_Black
+Jeep,Grand Cherokee,2024,6.0,Gasoline,5000.0,Laredo,SUV,4.0,4WD,10.769137408730304,Unknown,Automatic,8.0,Black_Interior_Black
+Mazda,CX-90 PHEV,2024,4.0,Hybrid,4000.0,Premium Plus,SUV,4.0,AWD,10.975071168816319,DOHC,Automatic,8.0,White_Interior_Black
+Jeep,Wagoneer,2024,6.0,Gasoline,8000.0,Series II,SUV,4.0,4WD,11.23702702534448,DOHC,Automatic,8.0,Other_Interior_Black
+Chevrolet,Silverado 1500,2024,8.0,Gasoline,2000.0,LT,Pickup Truck,4.0,4WD,10.812411214064715,Unknown,Automatic,8.0,Red_Interior_Black
+Mazda,CX-90 PHEV,2024,4.0,Hybrid,8000.0,Premium,SUV,4.0,AWD,10.923056633863785,DOHC,Automatic,8.0,Red_Interior_Black
+Volkswagen,Taos,2024,4.0,Gasoline,11000.0,1.5T SE,SUV,4.0,AWD,10.32937601028517,DOHC,Automatic,7.0,Black_Interior_Gray
+Dodge,Charger,2023,6.0,Gasoline,20000.0,SXT,Sedan,4.0,RWD,10.486317508785204,DOHC,Automatic,8.0,Black_Interior_Black
+Dodge,Charger,2023,6.0,Gasoline,20000.0,SXT,Sedan,4.0,RWD,10.49360483277653,DOHC,Automatic,8.0,White_Interior_Black
+Mercedes-Benz,Other,2024,6.0,Gasoline,5000.0,Other,SUV,4.0,AWD,11.494567992933977,DOHC,Automatic,9.0,White_Interior_Black
+Dodge,Hornet,2024,4.0,Hybrid,5000.0,R/T Plus,SUV,4.0,AWD,10.705601239347883,DOHC,Automatic,6.0,Other_Interior_Black
+Acura,MDX,2024,6.0,Gasoline,5000.0,Other,SUV,4.0,AWD,10.962162871600537,Other,Automatic,10.0,Gray_Interior_Other
+Jeep,Compass,2024,4.0,Gasoline,8000.0,Latitude,SUV,4.0,4WD,10.381893285046008,DOHC,Automatic,8.0,Other_Interior_Black
+Hyundai,IONIQ 5,2024,0.0,Electric,7000.0,SE,SUV,4.0,AWD,10.656482582714847,Unknown,Automatic,1.0,Other_Interior_Black
+Dodge,Hornet,2024,4.0,Hybrid,5000.0,R/T Plus,SUV,4.0,AWD,10.715572657167588,DOHC,Automatic,6.0,Gray_Interior_Black
+Land Rover,Other,2024,4.0,Gasoline,19000.0,Other,SUV,4.0,AWD,10.959696736276323,DOHC,Automatic,9.0,Other_Interior_Gray
+Ford,Other,2024,6.0,Gasoline,1000.0,Base,Cargo Van,3.0,RWD,10.855222645343478,DOHC,Automatic,8.0,White_Interior_Other
+Mercedes-Benz,Other,2024,0.0,Electric,5000.0,Base 4MATIC,SUV,4.0,AWD,11.645365011747952,Unknown,Automatic,1.0,Gray_Interior_Black
+Acura,MDX,2024,6.0,Gasoline,5000.0,Other,SUV,4.0,FWD,10.947309210188068,Other,Automatic,10.0,Gray_Interior_Other
+Jeep,Grand Cherokee L,2024,6.0,Gasoline,10000.0,Limited,SUV,4.0,4WD,10.871079578765833,Unknown,Automatic,8.0,Other_Interior_Black
+Jeep,Compass,2024,4.0,Gasoline,8000.0,Limited,SUV,4.0,4WD,10.55843949396453,DOHC,Automatic,8.0,White_Interior_Other
+Chevrolet,Other,2024,3.0,Gasoline,5000.0,LT,SUV,4.0,FWD,10.11378899583704,DOHC,Automatic,6.0,Other_Interior_Black
+BMW,Other,2024,0.0,Electric,37000.0,Other,Sedan,4.0,AWD,11.481393517357066,Unknown,Automatic,1.0,Black_Interior_Black
+Jeep,Wrangler 4xe,2024,4.0,Gasoline,2000.0,Other,SUV,4.0,4WD,10.905790829399939,DOHC,Automatic,8.0,Other_Interior_Black
+RAM,3500,2024,6.0,Diesel,20000.0,Laramie,Pickup Truck,4.0,4WD,11.2909811942315,Unknown,Automatic,8.0,Red_Interior_Black
+Honda,Other,2024,6.0,Gasoline,8000.0,Other,Passenger Van,4.0,FWD,10.699890535397843,Unknown,Automatic,8.0,White_Interior_Black
+RAM,Other,2023,6.0,Gasoline,17000.0,High Roof,Cargo Van,3.0,FWD,11.103090824344122,DOHC,Automatic,8.0,White_Interior_Black
+BMW,Other,2024,0.0,Electric,3000.0,Other,Sedan,4.0,AWD,11.443961164503692,Unknown,Automatic,1.0,Black_Interior_Black
+Chevrolet,Silverado 1500,2024,8.0,Gasoline,5000.0,Other,Pickup Truck,4.0,4WD,10.961902651452824,Unknown,Automatic,8.0,White_Interior_Black
+Chrysler,Other,2023,6.0,Gasoline,25000.0,Other,Other,4.0,FWD,10.721084386282662,Unknown,Automatic,9.0,Blue_Interior_Black
+Jeep,Compass,2024,4.0,Gasoline,11000.0,Latitude,SUV,4.0,4WD,10.270246481762213,DOHC,Automatic,8.0,Black_Interior_Black
+Dodge,Hornet,2024,4.0,Gasoline,54000.0,GT,SUV,4.0,AWD,10.45270662428899,DOHC,Automatic,9.0,Gray_Interior_Black
+Jeep,Grand Cherokee,2024,6.0,Gasoline,6000.0,Limited,SUV,4.0,4WD,10.823471456247901,DOHC,Automatic,8.0,White_Interior_Black
+Jeep,Wagoneer L,2024,6.0,Gasoline,12000.0,Series II,SUV,4.0,4WD,11.375856393561273,DOHC,Automatic,8.0,Red_Interior_Black
+Mazda,CX-90 PHEV,2024,4.0,Gasoline,2000.0,Base,SUV,4.0,AWD,10.922334872735375,DOHC,Automatic,8.0,Red_Interior_Other
+Hyundai,Tucson Hybrid,2024,4.0,Hybrid,7000.0,Limited,SUV,4.0,AWD,10.63084290442581,DOHC,Automatic,6.0,White_Interior_Gray
+Ford,Other,2024,3.0,Gasoline,8000.0,Other,SUV,4.0,4WD,10.309652415758565,Unknown,Automatic,8.0,White_Interior_Black
+Dodge,Durango,2023,8.0,Gasoline,19000.0,Pursuit,SUV,4.0,AWD,10.754407416968615,Unknown,Automatic,8.0,White_Interior_Black
+BMW,Other,2024,0.0,Electric,7000.0,Other,Sedan,4.0,RWD,11.221181822163762,Unknown,Automatic,1.0,White_Interior_Black
+Jeep,Grand Cherokee L,2024,6.0,Gasoline,27000.0,Other,SUV,4.0,4WD,11.102864813509706,DOHC,Automatic,8.0,Black_Interior_Black
+Nissan,Kicks,2024,4.0,Gasoline,15000.0,SR,SUV,4.0,FWD,10.184937747111391,DOHC,CVT,8.0,Other_Interior_Other
+Dodge,Durango,2023,8.0,Gasoline,12000.0,R/T,SUV,4.0,AWD,10.896665248728718,Unknown,Automatic,8.0,Black_Interior_Black
+Land Rover,Other,2024,6.0,Gasoline,9000.0,Other,SUV,2.0,4WD,11.259915314049724,DOHC,Automatic,8.0,Other_Interior_Black
+Jeep,Wrangler 4xe,2024,4.0,Gasoline,3000.0,Other,SUV,4.0,4WD,10.979325803637883,DOHC,Automatic,8.0,Other_Interior_Black
+Chrysler,Other,2024,6.0,Gasoline,42000.0,Other,Passenger Van,4.0,AWD,10.746153272535546,DOHC,Automatic,9.0,White_Interior_Black
+Ford,Edge,2024,4.0,Gasoline,5000.0,SEL,SUV,4.0,AWD,10.626096443245693,DOHC,Automatic,8.0,Black_Interior_Black
+Jeep,Other,2024,6.0,Gasoline,12000.0,Sport,Pickup Truck,4.0,4WD,10.753467527122861,DOHC,Automatic,8.0,Black_Interior_Black
+GMC,Other,2024,8.0,Gasoline,3000.0,Other,SUV,4.0,RWD,11.24699183790044,Unknown,Automatic,8.0,White_Interior_Other
+Audi,Other,2024,0.0,Electric,12000.0,Premium Plus,SUV,4.0,AWD,11.573230035575738,Unknown,Automatic,8.0,Black_Interior_Black
+Dodge,Durango,2023,8.0,Gasoline,31000.0,Pursuit,SUV,4.0,AWD,10.761428573021812,Unknown,Automatic,8.0,White_Interior_Black
+Audi,Other,2024,4.0,Gasoline,12000.0,Other,SUV,4.0,AWD,11.273347607192594,DOHC,Automatic,7.0,Silver_Interior_Black
+BMW,Other,2024,8.0,Gasoline,8000.0,Other,SUV,4.0,AWD,11.656558167149072,Unknown,Automatic,8.0,White_Interior_Black
+Jeep,Compass,2024,4.0,Gasoline,8000.0,Latitude,SUV,4.0,4WD,10.439483723444063,DOHC,Automatic,8.0,White_Interior_Black
+Kia,Other,2024,4.0,Hybrid,10000.0,EX,SUV,4.0,FWD,10.581292642796804,DOHC,Automatic,8.0,Gray_Interior_Other
+Dodge,Hornet,2024,4.0,Gasoline,73000.0,Other,SUV,4.0,AWD,10.55963355495159,DOHC,Automatic,9.0,Other_Interior_Black
+Kia,Other,2024,4.0,Gasoline,15000.0,S,SUV,4.0,AWD,10.262245325878965,DOHC,CVT,8.0,White_Interior_Other
+RAM,2500,2024,8.0,Gasoline,8000.0,Tradesman,Pickup Truck,4.0,4WD,11.032726034745998,Unknown,Automatic,8.0,White_Interior_Black
+Jeep,Compass,2024,4.0,Gasoline,3000.0,Latitude,SUV,4.0,4WD,10.198430699466112,DOHC,Automatic,8.0,Silver_Interior_Black
+Jeep,Compass,2024,4.0,Gasoline,6000.0,Other,SUV,4.0,4WD,10.303169302555226,DOHC,Automatic,8.0,White_Interior_Black
+Dodge,Hornet,2024,4.0,Hybrid,5000.0,R/T,SUV,4.0,AWD,10.659562582798547,DOHC,Automatic,6.0,Gray_Interior_Black
+Kia,Other,2024,4.0,Hybrid,8000.0,Other,SUV,4.0,FWD,10.522342128514218,DOHC,Automatic,8.0,Red_Interior_Gray
+Dodge,Hornet,2024,4.0,Hybrid,10000.0,R/T Plus,SUV,4.0,AWD,10.862473722937901,DOHC,Automatic,6.0,Blue_Interior_Black
+Dodge,Hornet,2024,4.0,Gasoline,8000.0,GT,SUV,4.0,AWD,10.33854382482173,DOHC,Automatic,9.0,Other_Interior_Black
+Jeep,Grand Cherokee 4xe,2024,4.0,Gasoline,3000.0,Other,SUV,4.0,4WD,11.026906268455686,DOHC,Automatic,8.0,Black_Interior_Black
+Buick,Other,2023,4.0,Gasoline,6000.0,Preferred,SUV,4.0,AWD,10.522342128514218,DOHC,Automatic,9.0,White_Interior_Black
+Ford,Escape,2024,4.0,Hybrid,8000.0,Other,SUV,4.0,FWD,10.422013452928306,Unknown,CVT,8.0,Black_Interior_Black
+Ford,Escape,2024,4.0,Hybrid,8000.0,S,SUV,4.0,FWD,10.639837890396722,Unknown,CVT,8.0,White_Interior_Black
+Jeep,Grand Cherokee L,2024,6.0,Gasoline,7000.0,Limited,SUV,4.0,4WD,10.82730985082563,Unknown,Automatic,8.0,White_Interior_Other
+Chevrolet,Silverado 1500,2024,8.0,Gasoline,5000.0,Other,Pickup Truck,4.0,4WD,11.088537442504965,Unknown,Automatic,8.0,Gray_Interior_Black
+Hyundai,Santa Cruz,2024,4.0,Gasoline,1000.0,Other,Pickup Truck,4.0,AWD,10.675907913990581,DOHC,Automatic,8.0,Black_Interior_Gray
+Dodge,Durango,2023,8.0,Gasoline,5000.0,Pursuit,SUV,4.0,AWD,10.754407416968615,Unknown,Automatic,8.0,Black_Interior_Black
+Jeep,Grand Cherokee,2024,6.0,Gasoline,12000.0,Limited,SUV,4.0,4WD,10.773629628384302,DOHC,Automatic,8.0,Gray_Interior_Black
+Jeep,Grand Cherokee L,2024,6.0,Gasoline,8000.0,Limited,SUV,4.0,4WD,10.886614164596537,Other,Automatic,8.0,Red_Interior_Black
+Ford,Other,2024,6.0,Gasoline,8000.0,Base,Cargo Van,3.0,RWD,10.87528867433785,DOHC,Automatic,8.0,White_Interior_Other
+Ford,Other,2024,6.0,Gasoline,9000.0,Other,SUV,4.0,4WD,11.142383386651293,DOHC,Automatic,10.0,Gray_Interior_Other
+Dodge,Hornet,2024,4.0,Gasoline,48000.0,GT AWD,SUV,4.0,AWD,10.38856450627934,Unknown,Automatic,8.0,Other_Interior_Black
+Kia,Other,2024,4.0,Gasoline,17000.0,EX,SUV,4.0,FWD,10.369137970290991,DOHC,Automatic,8.0,White_Interior_Gray
+Subaru,Other,2024,4.0,Gasoline,8000.0,Other,SUV,4.0,AWD,10.699980720954688,DOHC,CVT,8.0,Other_Interior_Gray
+Hyundai,Other,2024,4.0,Hybrid,14000.0,Blue,Sedan,4.0,FWD,10.206587653966265,DOHC,Automatic,8.0,White_Interior_Gray
+Acura,MDX,2024,6.0,Gasoline,5000.0,Other,SUV,4.0,FWD,10.947309210188068,Other,Automatic,10.0,Black_Interior_Other
+Kia,Other,2024,0.0,Electric,16000.0,Wind,SUV,4.0,AWD,10.677038913891867,Unknown,Automatic,8.0,Blue_Interior_Black
+Ford,Mustang Mach-E,2024,0.0,Electric,10000.0,Premium,SUV,4.0,AWD,10.815187764075905,Unknown,Automatic,1.0,Blue_Interior_Other
+Ford,Mustang Mach-E,2023,0.0,Electric,9000.0,GT,SUV,4.0,AWD,10.753125529855506,Unknown,Automatic,1.0,Gray_Interior_Black
+RAM,3500,2024,6.0,Diesel,6000.0,Other,Pickup Truck,4.0,4WD,11.069992107247156,Other,Automatic,8.0,White_Interior_Black
+RAM,3500,2024,6.0,Diesel,8000.0,Other,Pickup Truck,4.0,4WD,11.320844439107836,Other,Automatic,8.0,Silver_Interior_Black
+Mercedes-Benz,Other,2024,0.0,Electric,1000.0,Base 4MATIC,Sedan,4.0,AWD,11.678321252341242,Unknown,Automatic,8.0,Black_Interior_Black
+Chevrolet,Silverado 1500,2024,8.0,Gasoline,2000.0,LT,Pickup Truck,4.0,4WD,10.809667340659555,Unknown,Automatic,8.0,White_Interior_Black
+Chevrolet,Silverado 1500,2024,4.0,Gasoline,9000.0,LT,Pickup Truck,4.0,4WD,10.67211319427198,DOHC,Automatic,8.0,Black_Interior_Black
+Jeep,Compass,2024,4.0,Gasoline,8000.0,Latitude,SUV,4.0,4WD,10.270488994192164,DOHC,Automatic,8.0,Silver_Interior_Black
+Kia,Sportage,2024,4.0,Gasoline,10000.0,X-Line,SUV,4.0,AWD,10.477034422194833,DOHC,Automatic,8.0,Gray_Interior_Black
+Honda,Other,2024,4.0,,8000.0,Other,SUV,4.0,AWD,10.929547069355774,Unknown,Automatic,1.0,Other_Interior_Black
+Honda,Other,2024,4.0,,8000.0,Other,SUV,4.0,AWD,10.929547069355774,Unknown,Automatic,1.0,Gray_Interior_Black
+Hyundai,Tucson Hybrid,2024,4.0,Hybrid,15000.0,Blue,SUV,4.0,AWD,10.407590630541291,DOHC,Automatic,6.0,Other_Interior_Gray
+Mazda,CX-90 PHEV,2024,4.0,Hybrid,8000.0,Premium,SUV,4.0,AWD,10.914178959831768,DOHC,Automatic,8.0,Gray_Interior_Black
+Hyundai,Tucson Hybrid,2024,4.0,Hybrid,25000.0,Limited,SUV,4.0,AWD,10.592450993449742,DOHC,Automatic,6.0,Black_Interior_Gray
+Hyundai,IONIQ 5,2024,0.0,Electric,7000.0,Limited,SUV,4.0,AWD,10.854488842085678,Unknown,Automatic,1.0,Other_Interior_Other
+Ford,Mustang Mach-E,2024,0.0,Electric,10000.0,Other,SUV,4.0,AWD,10.731624436867815,Unknown,Automatic,1.0,Blue_Interior_Black
+Dodge,Charger,2023,6.0,Gasoline,20000.0,SXT,Sedan,4.0,RWD,10.531856183153893,DOHC,Automatic,8.0,Other_Interior_Black
+RAM,2500,2024,8.0,Gasoline,5000.0,Tradesman,Pickup Truck,4.0,4WD,10.750878265755231,Unknown,Automatic,8.0,White_Interior_Black
+Ford,Other,2024,6.0,Gasoline,6000.0,Platinum,SUV,4.0,4WD,11.3866363550199,DOHC,Automatic,10.0,Black_Interior_Black
+Hyundai,IONIQ 5,2024,0.0,Electric,5000.0,SEL,SUV,4.0,AWD,10.72084153655026,Unknown,Automatic,1.0,Black_Interior_Black
+Jeep,Other,2023,6.0,Gasoline,8000.0,Rubicon,Pickup Truck,4.0,4WD,10.90063911886528,DOHC,Automatic,8.0,Other_Interior_Black
+Jeep,Grand Cherokee,2024,6.0,Gasoline,5000.0,Altitude,SUV,4.0,4WD,10.682491276855757,DOHC,Automatic,8.0,Gray_Interior_Black
+Chrysler,Other,2024,6.0,Gasoline,8000.0,Other,Passenger Van,4.0,FWD,10.739955552540295,DOHC,Automatic,9.0,White_Interior_Black
+Jeep,Wrangler 4xe,2024,4.0,Hybrid,5000.0,Sport,SUV,4.0,4WD,10.8107577211892,DOHC,Automatic,8.0,Other_Interior_Black
+Volkswagen,Jetta,2024,4.0,Gasoline,28000.0,Other,Sedan,4.0,FWD,10.010591547450328,DOHC,Automatic,8.0,Silver_Interior_Black
+Jeep,Grand Cherokee,2024,6.0,Gasoline,9000.0,Limited,SUV,4.0,4WD,10.773629628384302,DOHC,Automatic,8.0,Other_Interior_Black
+Jeep,Grand Cherokee 4xe,2024,4.0,Hybrid,12000.0,Base,SUV,4.0,4WD,10.913268627497622,DOHC,Automatic,8.0,Gray_Interior_Black
+RAM,3500,2024,6.0,Diesel,6000.0,Laramie,Pickup Truck,4.0,4WD,11.348769902801896,Unknown,Automatic,6.0,White_Interior_Black
+RAM,2500,2024,6.0,Diesel,5000.0,Tradesman,Pickup Truck,4.0,4WD,11.182294136982017,Unknown,Automatic,8.0,Black_Interior_Black
+Dodge,Hornet,2024,4.0,Gasoline,21000.0,Other,SUV,4.0,AWD,10.747014024455444,DOHC,Automatic,6.0,Other_Interior_Black
+Ford,Mustang Mach-E,2024,0.0,Electric,12000.0,Premium,SUV,4.0,AWD,10.854875121447712,Unknown,Automatic,1.0,White_Interior_Black
+Chevrolet,Silverado 1500,2024,8.0,Gasoline,2000.0,LT,Pickup Truck,4.0,4WD,10.803262649032352,Unknown,Automatic,8.0,White_Interior_Black
+Hyundai,Other,2024,0.0,Electric,1000.0,SEL,Sedan,4.0,AWD,10.83852152722742,Unknown,Automatic,8.0,White_Interior_Black
+Volkswagen,Taos,2024,4.0,Gasoline,5000.0,Other,SUV,4.0,AWD,10.482457688033675,DOHC,Automatic,7.0,Blue_Interior_Other
+Ford,Other,2024,6.0,Gasoline,6000.0,Limited,SUV,4.0,4WD,11.340843306156405,DOHC,Automatic,10.0,White_Interior_Black
+Hyundai,Other,2024,4.0,Hybrid,5000.0,Limited,Sedan,4.0,FWD,10.56800375029692,DOHC,Automatic,6.0,Blue_Interior_Black
+RAM,3500,2023,6.0,Diesel,8000.0,Tradesman,Pickup Truck,4.0,4WD,11.184421397998193,Unknown,Automatic,8.0,White_Interior_Black
+Jeep,Grand Cherokee,2024,6.0,Gasoline,6000.0,Laredo,SUV,4.0,4WD,10.759624801590439,Unknown,Automatic,8.0,White_Interior_Black
+Jeep,Wrangler 4xe,2024,4.0,Gasoline,2000.0,Other,SUV,4.0,4WD,10.900934218371287,DOHC,Automatic,8.0,Black_Interior_Black
+Jeep,Compass,2024,4.0,Gasoline,10000.0,Latitude,SUV,4.0,4WD,10.411990480932474,DOHC,Automatic,8.0,Other_Interior_Black
+Hyundai,IONIQ 5,2024,0.0,Electric,3000.0,SEL,SUV,4.0,AWD,10.722694532756806,Unknown,Automatic,1.0,Blue_Interior_Black
+Jeep,Other,2024,6.0,Gasoline,10000.0,Other,SUV,4.0,4WD,10.791646263831526,DOHC,Automatic,8.0,Black_Interior_Black
+BMW,Other,2025,6.0,Gasoline,4000.0,Other,SUV,4.0,AWD,11.418021202770204,Unknown,Automatic,8.0,Red_Interior_Black
+Dodge,Durango,2023,8.0,Gasoline,5000.0,Pursuit,SUV,4.0,AWD,10.765132006630253,Unknown,Automatic,8.0,White_Interior_Black
+Hyundai,Santa Cruz,2024,4.0,Gasoline,1000.0,2.5L SEL,Pickup Truck,4.0,AWD,10.521399202410167,DOHC,Automatic,8.0,Black_Interior_Gray
+Mazda,CX-90 PHEV,2024,4.0,Hybrid,3000.0,Premium Plus,SUV,4.0,AWD,10.988778167087748,DOHC,Automatic,8.0,Black_Interior_Black
+Ford,Other,2024,3.0,Gasoline,13000.0,Other,SUV,4.0,4WD,10.354276506607956,DOHC,Automatic,8.0,Gray_Interior_Black
+Hyundai,Other,2024,6.0,Gasoline,25000.0,SEL,SUV,4.0,AWD,10.755900878021523,DOHC,Automatic,8.0,Other_Interior_Black
+Hyundai,Santa Cruz,2024,4.0,Gasoline,10000.0,2.5T XRT,Pickup Truck,4.0,AWD,10.505067539570582,DOHC,Automatic,8.0,Black_Interior_Black
+BMW,Other,2024,0.0,Electric,5000.0,Other,Hatchback,4.0,AWD,11.281006017883909,Unknown,Automatic,1.0,Blue_Interior_Other
+RAM,2500,2024,6.0,Diesel,15000.0,Other,Pickup Truck,4.0,4WD,11.225123385317872,Other,Automatic,8.0,Other_Interior_Black
+Mazda,CX-90 PHEV,2024,4.0,Gasoline,2000.0,Base,SUV,4.0,AWD,10.922334872735375,DOHC,Automatic,8.0,Red_Interior_Other
+Honda,Other,2024,4.0,Hybrid,68000.0,Other,SUV,4.0,AWD,10.60549536152827,DOHC,CVT,8.0,White_Interior_Black
+Jeep,Grand Cherokee,2023,6.0,Gasoline,16000.0,Laredo,SUV,4.0,4WD,10.668978650219241,DOHC,Automatic,8.0,Silver_Interior_Black
+Hyundai,Other,2024,4.0,Hybrid,9000.0,Limited,Sedan,4.0,FWD,10.56800375029692,DOHC,Automatic,6.0,Red_Interior_Black
+BMW,Other,2024,6.0,Gasoline,19000.0,Other,Sedan,4.0,RWD,11.542930769456555,DOHC,Automatic,8.0,Black_Interior_Black
+Volkswagen,Taos,2024,4.0,Gasoline,3000.0,1.5T SE,SUV,4.0,AWD,10.274982141073139,DOHC,Automatic,7.0,Blue_Interior_Black
+Volkswagen,Taos,2024,4.0,Gasoline,5000.0,1.5T SE,SUV,4.0,FWD,10.277358789053114,DOHC,Automatic,8.0,White_Interior_Black
+GMC,Other,2024,4.0,Gasoline,8000.0,Other,SUV,4.0,AWD,10.40707705863749,DOHC,Automatic,9.0,Red_Interior_Black
+Hyundai,Other,2024,6.0,Gasoline,26000.0,SEL,SUV,4.0,AWD,10.76004951120163,DOHC,Automatic,8.0,White_Interior_Black
+Volkswagen,Taos,2024,4.0,Gasoline,11000.0,1.5T SE,SUV,4.0,FWD,10.38612972782783,DOHC,Automatic,8.0,Black_Interior_Black
+Ford,Other,2024,4.0,Gasoline,9000.0,XLT,SUV,4.0,RWD,10.600278088010873,DOHC,Automatic,10.0,Gray_Interior_Black
+Nissan,Kicks,2024,4.0,Gasoline,15000.0,SV,SUV,4.0,FWD,10.110542371500753,DOHC,CVT,8.0,Black_Interior_Other
+Jeep,Grand Cherokee 4xe,2024,4.0,Hybrid,11000.0,Other,SUV,4.0,4WD,11.144785042922217,DOHC,Automatic,8.0,Red_Interior_Other
+Dodge,Durango,2023,8.0,Gasoline,32000.0,Pursuit,SUV,4.0,AWD,10.754407416968615,Unknown,Automatic,8.0,White_Interior_Black
+Nissan,Other,2024,4.0,Gasoline,8000.0,S,Sedan,4.0,FWD,9.79784922051313,DOHC,CVT,8.0,Blue_Interior_Other
+Ford,Escape,2024,4.0,Gasoline,7000.0,Other,SUV,4.0,AWD,10.612286601034295,DOHC,Automatic,8.0,Silver_Interior_Other
+Jeep,Grand Cherokee,2024,6.0,Gasoline,1000.0,Laredo,SUV,4.0,4WD,10.801125395911074,Unknown,Automatic,8.0,White_Interior_Black
+Volkswagen,Jetta,2024,4.0,Gasoline,7000.0,Other,Sedan,4.0,FWD,10.050225108647712,DOHC,Automatic,8.0,Black_Interior_Black
+Dodge,Durango,2023,8.0,Gasoline,31000.0,Pursuit,SUV,4.0,AWD,10.754407416968615,Unknown,Automatic,8.0,White_Interior_Black
+Ford,Mustang Mach-E,2024,0.0,Electric,25000.0,Premium,SUV,4.0,AWD,10.862473722937901,Unknown,Automatic,1.0,Gray_Interior_Black
+Hyundai,IONIQ 5,2024,0.0,Electric,10000.0,Limited,SUV,4.0,AWD,10.989622319693126,Unknown,Automatic,1.0,Blue_Interior_Gray
+Ford,Other,2024,6.0,Gasoline,1000.0,Base,Cargo Van,3.0,RWD,10.855222645343478,DOHC,Automatic,8.0,White_Interior_Other
+Jeep,Grand Cherokee 4xe,2024,4.0,Hybrid,35000.0,Trailhawk,SUV,4.0,4WD,11.124096210513489,DOHC,Automatic,8.0,Black_Interior_Black
+Hyundai,Santa Cruz,2024,4.0,Gasoline,1000.0,Other,Pickup Truck,4.0,AWD,10.607821922486638,DOHC,Automatic,8.0,Gray_Interior_Black
+Chevrolet,Equinox,2024,4.0,Gasoline,3000.0,Other,SUV,4.0,FWD,10.315232898601442,DOHC,Automatic,6.0,Gray_Interior_Gray
+Mazda,CX-90 PHEV,2024,4.0,Gasoline,5000.0,Base,SUV,4.0,AWD,10.992402978225373,DOHC,Automatic,8.0,Red_Interior_Black
+Mazda,CX-90 PHEV,2024,4.0,Gasoline,5000.0,Base,SUV,4.0,AWD,11.003448930773533,DOHC,Automatic,8.0,Blue_Interior_Black
+Buick,Other,2023,4.0,Gasoline,13000.0,Other,SUV,4.0,AWD,10.663966225256358,DOHC,Automatic,9.0,Other_Interior_Black
+Audi,Other,2024,0.0,Electric,5000.0,Premium,SUV,4.0,AWD,11.344873609972483,Unknown,Automatic,8.0,White_Interior_Other
+Dodge,Durango,2023,8.0,Gasoline,13000.0,Pursuit,SUV,4.0,AWD,10.763863802448526,Unknown,Automatic,8.0,White_Interior_Black
+Jeep,Compass,2024,4.0,Gasoline,8000.0,Latitude,SUV,4.0,4WD,10.326334058475068,DOHC,Automatic,8.0,Other_Interior_Black
+Honda,Other,2024,6.0,Gasoline,3000.0,Other,SUV,4.0,AWD,10.711101163782413,Other,Automatic,9.0,Other_Interior_Black
+Cadillac,Other,2024,0.0,Electric,8000.0,Other,SUV,4.0,RWD,11.334587961286575,Unknown,Automatic,8.0,White_Interior_Other
+Nissan,Other,2024,8.0,Gasoline,5000.0,SV,Pickup Truck,4.0,4WD,10.76015566042631,Unknown,Automatic,8.0,White_Interior_Black
+Jeep,Compass,2024,4.0,Gasoline,12000.0,Limited,SUV,4.0,4WD,10.564550494623223,DOHC,Automatic,8.0,Blue_Interior_Black
+Jeep,Compass,2024,4.0,Gasoline,7000.0,Latitude,SUV,4.0,4WD,10.249414947928097,DOHC,Automatic,8.0,White_Interior_Black
+Jeep,Wrangler 4xe,2024,4.0,Hybrid,17000.0,Other,SUV,4.0,4WD,10.972173137962086,DOHC,Automatic,8.0,Other_Interior_Black
+Jeep,Wrangler 4xe,2024,4.0,Hybrid,12000.0,Rubicon,SUV,4.0,4WD,11.115294588970581,DOHC,Automatic,8.0,White_Interior_Black
+Hyundai,IONIQ 5,2024,0.0,Electric,5000.0,SEL,SUV,4.0,AWD,10.73070660463555,Unknown,Automatic,1.0,Other_Interior_Gray
+Ford,Escape,2024,3.0,Gasoline,8000.0,Active,SUV,4.0,FWD,10.31820968190697,Unknown,Automatic,8.0,Silver_Interior_Black
+Ford,Escape,2024,3.0,Gasoline,10000.0,Other,SUV,4.0,AWD,10.450828309595938,DOHC,Automatic,8.0,White_Interior_Black
+Jeep,Wrangler 4xe,2024,4.0,Hybrid,5000.0,Rubicon,SUV,4.0,4WD,11.11186563934097,DOHC,Automatic,8.0,Black_Interior_Black
+Jeep,Compass,2024,4.0,Gasoline,7000.0,Latitude,SUV,4.0,4WD,10.358885029392502,DOHC,Automatic,8.0,Other_Interior_Black
+Chevrolet,Equinox,2024,4.0,Gasoline,3000.0,Other,SUV,4.0,AWD,10.34032212039035,DOHC,Automatic,8.0,White_Interior_Gray
+Dodge,Hornet,2024,4.0,Gasoline,10000.0,GT,SUV,4.0,AWD,10.454466147075888,DOHC,Automatic,9.0,Other_Interior_Black
+Ford,Escape,2024,3.0,Gasoline,10000.0,Other,SUV,4.0,AWD,10.377825524930667,DOHC,Automatic,8.0,Silver_Interior_Black
+Ford,Other,2024,6.0,Gasoline,8000.0,Base,Cargo Van,3.0,RWD,11.022702801743081,DOHC,Automatic,8.0,White_Interior_Gray
+Ford,Mustang Mach-E,2024,0.0,Electric,10000.0,Premium,SUV,4.0,AWD,10.756220615413271,Unknown,Automatic,1.0,Other_Interior_Other
+Jeep,Grand Cherokee,2024,6.0,Gasoline,8000.0,Laredo,SUV,4.0,4WD,10.619520836882774,DOHC,Automatic,8.0,Silver_Interior_Black
+Chevrolet,Silverado 1500,2024,8.0,Gasoline,2000.0,Other,Pickup Truck,4.0,4WD,11.244732245102295,Unknown,Automatic,10.0,White_Interior_Gray
+Chevrolet,Silverado 1500,2024,8.0,Gasoline,2000.0,LT,Pickup Truck,4.0,4WD,10.803262649032352,Unknown,Automatic,8.0,White_Interior_Black
+Ford,Mustang Mach-E,2023,0.0,Electric,10000.0,Premium,SUV,4.0,AWD,10.726038870307335,Unknown,Automatic,1.0,Gray_Interior_Gray
+Jeep,Grand Cherokee,2024,6.0,Gasoline,8000.0,Other,SUV,4.0,4WD,11.087681029294444,DOHC,Automatic,8.0,Black_Interior_Black
+Chevrolet,Silverado 1500,2024,8.0,Gasoline,5000.0,Other,Pickup Truck,4.0,4WD,10.771658895221004,Unknown,Automatic,10.0,White_Interior_Black
+Honda,Other,2024,6.0,Gasoline,4000.0,Other,Passenger Van,4.0,FWD,10.638400282328542,Other,Automatic,10.0,Silver_Interior_Gray
+Hyundai,IONIQ 5,2024,0.0,Electric,10000.0,Other,SUV,4.0,AWD,10.905882583462414,Unknown,Automatic,1.0,Other_Interior_Gray
+Hyundai,Other,2024,4.0,Hybrid,8000.0,Limited,Sedan,4.0,FWD,10.320090405054748,DOHC,Automatic,8.0,Gray_Interior_Other
+Hyundai,Tucson Hybrid,2024,4.0,Hybrid,11000.0,Blue,SUV,4.0,AWD,10.425134414933702,DOHC,Automatic,6.0,White_Interior_Black
+Volkswagen,Jetta,2024,4.0,Gasoline,28000.0,Other,Sedan,4.0,FWD,10.28789925144646,DOHC,Automatic,8.0,White_Interior_Other
+Jeep,Wrangler 4xe,2024,4.0,Hybrid,8000.0,Sport,SUV,4.0,4WD,10.846439689363773,DOHC,Automatic,8.0,Other_Interior_Black
+Hyundai,Tucson Hybrid,2024,4.0,Hybrid,15000.0,SEL Convenience,SUV,4.0,AWD,10.484165678200952,DOHC,Automatic,6.0,Black_Interior_Gray
+Jeep,Wrangler 4xe,2023,4.0,Hybrid,8000.0,Other,SUV,4.0,4WD,11.062190987414528,DOHC,Automatic,8.0,Silver_Interior_Black
+Hyundai,Other,2024,4.0,Hybrid,15000.0,Blue,Sedan,4.0,FWD,10.164928313782681,DOHC,Automatic,6.0,Gray_Interior_Black
+Hyundai,Other,2023,0.0,Electric,27000.0,SEL,Sedan,4.0,AWD,10.596584731846031,Unknown,Automatic,1.0,Black_Interior_Black
+Toyota,Other,2024,6.0,Hybrid,10000.0,Limited,Pickup Truck,4.0,4WD,11.131035271890433,DOHC,Automatic,10.0,Silver_Interior_Black
+RAM,Other,2024,6.0,Gasoline,181000.0,Base,Cargo Van,3.0,FWD,11.123579738741947,DOHC,Automatic,9.0,White_Interior_Black
+Jeep,Grand Cherokee L,2024,6.0,Gasoline,8000.0,Limited,SUV,4.0,4WD,10.814484295949173,Other,Automatic,8.0,White_Interior_Black
+Dodge,Hornet,2024,4.0,Hybrid,2000.0,R/T Plus,SUV,4.0,AWD,10.817495681252732,DOHC,Automatic,6.0,Other_Interior_Black
+Toyota,Other,2024,4.0,Gasoline,1000.0,Other,SUV,4.0,AWD,10.325481962595504,DOHC,CVT,8.0,Other_Interior_Gray
+Kia,Other,2024,0.0,Electric,14000.0,Wind,SUV,4.0,AWD,10.645234402932136,Unknown,Automatic,8.0,Other_Interior_Black
+Ford,Other,2024,4.0,Gasoline,9000.0,XLT,SUV,4.0,RWD,10.600278088010873,DOHC,Automatic,10.0,Silver_Interior_Black
+Mazda,CX-90 PHEV,2024,4.0,Hybrid,3000.0,Premium,SUV,4.0,AWD,10.913996959649264,DOHC,Automatic,8.0,Other_Interior_Other
+Jeep,Wagoneer L,2024,6.0,Gasoline,8000.0,Series II,SUV,4.0,4WD,11.33673706187972,DOHC,Automatic,8.0,White_Interior_Black
+Mercedes-Benz,Other,2023,4.0,Gasoline,8000.0,High Roof,Cargo Van,3.0,RWD,10.979615621651249,DOHC,Automatic,8.0,Other_Interior_Other
+Dodge,Durango,2023,8.0,Gasoline,23000.0,Pursuit,SUV,4.0,AWD,10.754407416968615,Unknown,Automatic,8.0,White_Interior_Black
+Chevrolet,Other,2024,4.0,,8000.0,RS,SUV,4.0,FWD,10.76840077595051,Unknown,Automatic,8.0,Gray_Interior_Black
+Jeep,Other,2024,6.0,Gasoline,8000.0,Other,SUV,4.0,4WD,11.730058992216227,DOHC,Automatic,8.0,Other_Interior_Black
+Mercedes-Benz,Other,2024,4.0,Diesel,8000.0,High Roof,Pickup Truck,3.0,RWD,11.084140551540447,DOHC,Automatic,8.0,Other_Interior_Other
+Ford,Mustang Mach-E,2024,0.0,Electric,5000.0,Other,SUV,4.0,AWD,10.815489098991852,Unknown,Automatic,1.0,Gray_Interior_Black
+Honda,Other,2025,4.0,Gasoline,1000.0,Other,SUV,4.0,AWD,10.64901368794098,Unknown,CVT,1.0,Other_Interior_Black
+Cadillac,Other,2024,4.0,Gasoline,5000.0,Luxury,SUV,4.0,AWD,10.762699867370506,DOHC,Automatic,9.0,Black_Interior_Black
+Hyundai,Santa Cruz,2024,4.0,Gasoline,3000.0,2.5L SEL,Pickup Truck,4.0,AWD,10.361260440267637,DOHC,Automatic,8.0,Gray_Interior_Black
+Toyota,Other,2024,6.0,Hybrid,7000.0,Other,Pickup Truck,4.0,4WD,11.197913304846491,Unknown,Automatic,10.0,Other_Interior_Other
+Dodge,Hornet,2024,4.0,Gasoline,14000.0,GT AWD,SUV,4.0,AWD,10.511485258054378,DOHC,Automatic,9.0,Other_Interior_Black
+RAM,3500,2024,6.0,Diesel,6000.0,Tradesman,Pickup Truck,2.0,4WD,11.02404070372108,Unknown,Automatic,6.0,Red_Interior_Black
+Hyundai,Kona,2024,4.0,Gasoline,1000.0,SEL,SUV,4.0,AWD,10.37380363296391,DOHC,CVT,8.0,Other_Interior_Black
+Chevrolet,Silverado 1500,2024,8.0,Gasoline,17000.0,LT,Pickup Truck,4.0,4WD,10.804258472752247,Unknown,Automatic,8.0,Black_Interior_Black
+INFINITI,Other,2023,4.0,Gasoline,8000.0,Other,SUV,4.0,AWD,10.900454637442037,DOHC,CVT,8.0,Other_Interior_Other
+Jeep,Compass,2023,4.0,Gasoline,14000.0,Sport,SUV,4.0,4WD,10.165851817003619,DOHC,Automatic,8.0,Silver_Interior_Black
+Mazda,CX-90 PHEV,2024,4.0,Gasoline,30000.0,Base,SUV,4.0,AWD,10.95073636891568,DOHC,Automatic,8.0,White_Interior_Black
+Chevrolet,Equinox,2024,4.0,Gasoline,6000.0,Other,SUV,4.0,AWD,10.447931687925744,DOHC,Automatic,6.0,Red_Interior_Black
+Nissan,Kicks,2024,4.0,Gasoline,12000.0,SR,SUV,4.0,FWD,10.142937430124647,DOHC,CVT,8.0,Gray_Interior_Other
+Dodge,Hornet,2024,4.0,Hybrid,8000.0,R/T Plus,SUV,4.0,AWD,10.817495681252732,DOHC,Automatic,6.0,Blue_Interior_Black
+Toyota,Other,2024,4.0,Gasoline,8000.0,Other,Sedan,4.0,FWD,10.0267665686963,DOHC,CVT,8.0,Silver_Interior_Black
+Hyundai,IONIQ 5,2024,0.0,Electric,8000.0,SEL,SUV,4.0,AWD,10.732715997033832,Unknown,Automatic,8.0,Other_Interior_Gray
+Volkswagen,Jetta,2024,4.0,Gasoline,10000.0,Other,Sedan,4.0,FWD,10.30547997116532,DOHC,Automatic,8.0,Black_Interior_Black
+Hyundai,IONIQ 5,2024,0.0,Electric,13000.0,SEL,SUV,4.0,AWD,10.708041930670204,Unknown,Automatic,1.0,Other_Interior_Gray
+RAM,Other,2024,6.0,Gasoline,186000.0,Base,Cargo Van,3.0,FWD,11.128673753261262,DOHC,Automatic,9.0,White_Interior_Black
+Volkswagen,Jetta,2024,4.0,Gasoline,7000.0,Other,Sedan,4.0,FWD,10.100246059905626,DOHC,Automatic,8.0,White_Interior_Black
+RAM,3500,2024,6.0,Diesel,15000.0,Tradesman,Pickup Truck,4.0,4WD,11.086149893352006,Unknown,Automatic,8.0,Other_Interior_Black
+GMC,Other,2024,4.0,Gasoline,8000.0,Denali,SUV,4.0,AWD,10.620863823642551,DOHC,Automatic,9.0,White_Interior_Other
+Honda,Other,2024,4.0,Hybrid,1000.0,Sport,SUV,4.0,AWD,10.515993929932415,DOHC,CVT,8.0,Silver_Interior_Black
+Hyundai,Tucson Hybrid,2024,4.0,Hybrid,5000.0,SEL Convenience,SUV,4.0,AWD,10.526104966905546,DOHC,Automatic,6.0,Gray_Interior_Gray
+RAM,3500,2024,6.0,Diesel,33000.0,Laramie,Pickup Truck,4.0,4WD,11.188510249462226,Unknown,Automatic,8.0,Black_Interior_Black
+Mazda,CX-90 PHEV,2024,4.0,Gasoline,5000.0,Base,SUV,4.0,AWD,10.851780700535777,DOHC,Automatic,8.0,Blue_Interior_Black
+Hyundai,Kona,2024,4.0,Gasoline,15000.0,Limited,SUV,4.0,FWD,10.336243520880195,DOHC,Automatic,8.0,Black_Interior_Black
+Dodge,Hornet,2024,4.0,Hybrid,5000.0,R/T Plus,SUV,4.0,AWD,10.71056591543671,DOHC,Automatic,6.0,Other_Interior_Black
+Dodge,Hornet,2024,4.0,Gasoline,18000.0,GT,SUV,4.0,AWD,10.548573053517297,DOHC,Automatic,9.0,Blue_Interior_Black
+Jeep,Grand Cherokee L,2024,6.0,Gasoline,3000.0,Altitude,SUV,4.0,4WD,10.767473952780994,DOHC,Automatic,8.0,White_Interior_Black
+Jeep,Wrangler 4xe,2024,4.0,Hybrid,4000.0,Other,SUV,4.0,4WD,10.98259416981229,DOHC,Automatic,8.0,Blue_Interior_Black
+Dodge,Hornet,2024,4.0,Gasoline,10000.0,GT AWD,SUV,4.0,AWD,10.399341660371974,DOHC,Automatic,8.0,Other_Interior_Black
+Ford,Other,2024,3.0,Gasoline,9000.0,Other,SUV,4.0,4WD,10.354276506607956,DOHC,Automatic,8.0,Other_Interior_Other
+Chrysler,Other,2024,6.0,Gasoline,14000.0,Other,Passenger Van,4.0,AWD,10.904192959552644,DOHC,Automatic,9.0,Black_Interior_Black
+Toyota,Other,2024,6.0,Hybrid,10000.0,Platinum,Pickup Truck,4.0,RWD,11.172503438187732,DOHC,Automatic,10.0,Red_Interior_Black
+Jeep,Wagoneer,2024,6.0,Gasoline,1000.0,Series II,SUV,4.0,4WD,11.349653310693409,DOHC,Automatic,8.0,Red_Interior_Black
+Ford,Other,2023,6.0,Gasoline,26000.0,XLT,Pickup Truck,4.0,4WD,10.868492255200882,Unknown,Automatic,10.0,White_Interior_Black
+RAM,2500,2024,6.0,Diesel,15000.0,Other,Pickup Truck,4.0,4WD,11.026499728027773,Other,Automatic,6.0,White_Interior_Black
+Mazda,CX-90 PHEV,2024,4.0,Gasoline,5000.0,Base,SUV,4.0,AWD,10.853232402669228,DOHC,Automatic,8.0,Blue_Interior_Black
+Chevrolet,Silverado 1500,2024,4.0,Gasoline,5000.0,Other,Pickup Truck,4.0,RWD,10.667745360554026,DOHC,Automatic,8.0,Red_Interior_Black
+Dodge,Hornet,2024,4.0,Gasoline,6000.0,GT AWD,SUV,4.0,AWD,10.443774886451738,DOHC,Automatic,8.0,Other_Interior_Black
+RAM,3500,2024,8.0,Gasoline,197000.0,Tradesman,Pickup Truck,2.0,4WD,11.037386544225816,Unknown,Automatic,8.0,White_Interior_Black
+Dodge,Charger,2023,6.0,Gasoline,15000.0,SXT,Sedan,4.0,RWD,10.488882470601844,DOHC,Automatic,8.0,Blue_Interior_Black
+Audi,Other,2024,4.0,Gasoline,76000.0,Premium,Sedan,4.0,FWD,10.580911772630838,DOHC,Automatic,7.0,Silver_Interior_Black
+Jeep,Wrangler 4xe,2024,4.0,Hybrid,26000.0,Rubicon,SUV,4.0,4WD,11.086686057645586,DOHC,Automatic,8.0,Blue_Interior_Black
+Jeep,Wrangler 4xe,2024,4.0,Hybrid,12000.0,Rubicon,SUV,4.0,4WD,11.08108044658523,DOHC,Automatic,8.0,Black_Interior_Black
+Ford,Mustang Mach-E,2023,0.0,Electric,6000.0,Premium,SUV,4.0,AWD,10.748088923518438,Unknown,Automatic,1.0,Black_Interior_Black
+Mazda,CX-90 PHEV,2024,4.0,Hybrid,3000.0,Premium,SUV,4.0,AWD,10.914178959831768,DOHC,Automatic,8.0,Other_Interior_Black
+Dodge,Hornet,2024,4.0,Hybrid,8000.0,R/T Plus,SUV,4.0,AWD,10.760940814685789,DOHC,Automatic,6.0,Gray_Interior_Black
+Hyundai,Santa Cruz,2024,4.0,Gasoline,1000.0,2.5T XRT,Pickup Truck,4.0,AWD,10.644376729081495,DOHC,Automatic,8.0,Other_Interior_Black
+Ford,Escape,2024,3.0,Gasoline,8000.0,Active,SUV,4.0,AWD,10.51490936053568,DOHC,Automatic,8.0,Blue_Interior_Black
+RAM,3500,2024,6.0,Diesel,6000.0,Big Horn,Pickup Truck,4.0,4WD,11.242441323346558,Unknown,Automatic,6.0,Black_Interior_Black
+RAM,Other,2024,6.0,Gasoline,188000.0,Base,Cargo Van,3.0,FWD,11.128673753261262,DOHC,Automatic,9.0,White_Interior_Black
+Ford,Other,2024,6.0,Gasoline,8000.0,Other,Pickup Truck,4.0,4WD,10.727794565794095,DOHC,Automatic,8.0,White_Interior_Black
+Nissan,Kicks,2024,4.0,Gasoline,15000.0,S,SUV,4.0,FWD,10.098478512430745,DOHC,CVT,8.0,Other_Interior_Other
+Ford,Other,2024,4.0,Gasoline,8000.0,XLT,SUV,4.0,RWD,10.755154426298283,DOHC,Automatic,10.0,White_Interior_Other
+Hyundai,Kona,2024,4.0,Gasoline,8000.0,Limited,SUV,4.0,AWD,10.429428364110965,DOHC,Automatic,8.0,Other_Interior_Black
+Chevrolet,Silverado 1500,2024,8.0,Gasoline,2000.0,LT,Pickup Truck,4.0,4WD,10.820957588757476,Unknown,Automatic,8.0,Red_Interior_Black
+Honda,Other,2024,4.0,Hybrid,8000.0,Other,SUV,4.0,FWD,10.532256199159868,DOHC,CVT,8.0,White_Interior_Other
+Hyundai,Other,2024,4.0,Hybrid,13000.0,SEL,Sedan,4.0,FWD,10.404444642103513,DOHC,Automatic,6.0,White_Interior_Black
+Acura,MDX,2024,6.0,Gasoline,5000.0,Base,SUV,4.0,AWD,10.891186902297498,Other,Automatic,10.0,Silver_Interior_Other
+Mercedes-Benz,Other,2024,4.0,Diesel,8000.0,High Roof,Cargo Van,3.0,RWD,11.039652497256823,DOHC,Automatic,8.0,Silver_Interior_Black
+GMC,Other,2024,8.0,Diesel,8000.0,Denali,Pickup Truck,4.0,4WD,11.410017494917808,Unknown,Automatic,10.0,Black_Interior_Black
+Jeep,Compass,2024,4.0,Gasoline,6000.0,Limited,SUV,4.0,4WD,10.425164091606355,DOHC,Automatic,8.0,White_Interior_Black
+Jeep,Grand Cherokee L,2024,6.0,Gasoline,23000.0,Limited,SUV,4.0,RWD,10.908558096795874,DOHC,Automatic,8.0,Black_Interior_Black
+Cadillac,Other,2024,0.0,Electric,1000.0,Luxury,SUV,4.0,RWD,11.004031308053985,Unknown,Automatic,1.0,Other_Interior_Black
+Hyundai,Other,2024,4.0,Gasoline,8000.0,SEL,SUV,4.0,FWD,10.396688774948379,DOHC,Automatic,8.0,White_Interior_Gray
+Mazda,CX-90 PHEV,2024,4.0,Hybrid,1000.0,Preferred,SUV,4.0,AWD,10.831627800767432,DOHC,Automatic,8.0,White_Interior_Black
+Ford,Other,2025,4.0,Gasoline,8000.0,Platinum,SUV,4.0,RWD,10.89518255885816,Unknown,Automatic,10.0,White_Interior_Other
+Jeep,Wagoneer,2024,6.0,Gasoline,14000.0,Base,SUV,4.0,4WD,11.257697675183168,DOHC,Automatic,8.0,Silver_Interior_Black
+INFINITI,Other,2024,4.0,Gasoline,7000.0,Other,SUV,4.0,FWD,10.807806912629063,Unknown,CVT,8.0,White_Interior_Other
+Hyundai,Other,2024,4.0,Hybrid,9000.0,Limited,Sedan,4.0,FWD,10.337572510881479,DOHC,Automatic,8.0,White_Interior_Black
+Buick,Other,2024,6.0,Gasoline,8000.0,Premium,SUV,4.0,AWD,10.948575990799789,DOHC,Automatic,9.0,Other_Interior_Other
+Jeep,Compass,2024,4.0,Gasoline,8000.0,Latitude,SUV,4.0,4WD,10.455387938873837,DOHC,Automatic,8.0,Other_Interior_Black
+Chrysler,Other,2024,6.0,Gasoline,13000.0,Limited,Passenger Van,4.0,AWD,10.918428335176623,DOHC,Automatic,9.0,White_Interior_Black
+Hyundai,Other,2024,4.0,Gasoline,8000.0,SEL,SUV,4.0,FWD,10.392864795496248,DOHC,Automatic,8.0,White_Interior_Gray
+Nissan,Other,2024,4.0,Gasoline,6000.0,S,Sedan,4.0,FWD,9.945109227226947,DOHC,CVT,8.0,White_Interior_Other
+Audi,Other,2024,4.0,Gasoline,10000.0,Other,Hatchback,4.0,AWD,10.866776367570866,DOHC,Automatic,7.0,White_Interior_Black
+RAM,3500,2024,6.0,Diesel,21000.0,Big Horn,Pickup Truck,4.0,4WD,11.114833111191476,Unknown,Automatic,6.0,White_Interior_Black
+Ford,Edge,2024,4.0,Gasoline,3000.0,SE,SUV,4.0,AWD,10.60313853743474,DOHC,Automatic,8.0,Gray_Interior_Black
+Mercedes-Benz,Other,2024,6.0,Gasoline,8000.0,Other,SUV,4.0,AWD,11.464060798025534,DOHC,Automatic,9.0,White_Interior_Other
+Hyundai,Tucson Hybrid,2024,4.0,Hybrid,10000.0,SEL Convenience,SUV,4.0,AWD,10.486708253717469,DOHC,Automatic,6.0,Black_Interior_Black
+Hyundai,Tucson Hybrid,2024,4.0,Hybrid,10000.0,SEL Convenience,SUV,4.0,AWD,10.48503255651477,DOHC,Automatic,6.0,Gray_Interior_Gray
+RAM,3500,2024,6.0,Diesel,6000.0,Big Horn,Pickup Truck,4.0,4WD,11.192733974822708,Unknown,Automatic,6.0,White_Interior_Black
+Chevrolet,Silverado 1500,2024,8.0,Gasoline,5000.0,Other,Pickup Truck,4.0,4WD,10.766609548270218,Unknown,Automatic,10.0,White_Interior_Black
+Kia,Other,2024,4.0,Hybrid,11000.0,EX,SUV,4.0,FWD,10.339675833287133,DOHC,Automatic,6.0,White_Interior_Other
+Jeep,Compass,2024,4.0,Gasoline,9000.0,Sport,SUV,4.0,4WD,10.206846104372916,DOHC,Automatic,8.0,Black_Interior_Black
+RAM,3500,2024,6.0,Diesel,7000.0,Big Horn,Pickup Truck,4.0,4WD,11.275885808463908,Unknown,Automatic,6.0,White_Interior_Black
+Ford,Edge,2024,4.0,Gasoline,48000.0,Other,SUV,4.0,AWD,10.707974835338897,DOHC,Automatic,8.0,Red_Interior_Other
+Nissan,Other,2024,4.0,Gasoline,4000.0,SV,Sedan,4.0,FWD,9.98220630724752,DOHC,Automatic,8.0,Other_Interior_Other
+Kia,Other,2024,4.0,Gasoline,15000.0,S,SUV,4.0,AWD,10.258921727038727,DOHC,CVT,8.0,White_Interior_Other
+Jeep,Grand Cherokee L,2024,6.0,Gasoline,4000.0,Limited,SUV,4.0,4WD,10.838089604181535,DOHC,Automatic,8.0,Black_Interior_Black
+Nissan,Other,2024,4.0,Gasoline,6000.0,Other,Sedan,4.0,FWD,9.993785190516908,DOHC,CVT,8.0,Blue_Interior_Gray
+Hyundai,Kona,2024,4.0,Gasoline,8000.0,SEL,SUV,4.0,FWD,10.28134162693611,DOHC,CVT,8.0,Gray_Interior_Black
+Nissan,Kicks,2024,4.0,Gasoline,6000.0,SR,SUV,4.0,FWD,9.958165113826825,DOHC,CVT,8.0,Blue_Interior_Other
+RAM,3500,2024,6.0,Diesel,24000.0,Other,Pickup Truck,4.0,4WD,11.059094352724046,Other,Automatic,8.0,Other_Interior_Black
+RAM,3500,2024,6.0,Diesel,22000.0,Laramie,Pickup Truck,4.0,4WD,11.288969083398992,Unknown,Automatic,8.0,White_Interior_Black
+Dodge,Durango,2023,8.0,Gasoline,22000.0,Pursuit,SUV,4.0,AWD,10.765132006630253,Unknown,Automatic,8.0,Black_Interior_Black
+Dodge,Durango,2023,8.0,Gasoline,32000.0,Pursuit,SUV,4.0,AWD,10.774487988550476,Unknown,Automatic,8.0,Black_Interior_Black
+Dodge,Charger,2023,8.0,Gasoline,18000.0,Other,Sedan,4.0,RWD,11.08331109662906,Unknown,Automatic,8.0,Blue_Interior_Black
+Jeep,Grand Cherokee L,2024,6.0,Gasoline,175000.0,Altitude,SUV,4.0,4WD,10.741687004795212,DOHC,Automatic,8.0,Red_Interior_Black
+Dodge,Hornet,2024,4.0,Hybrid,147000.0,R/T,SUV,4.0,AWD,10.666090830610614,DOHC,Automatic,6.0,Other_Interior_Black
+GMC,Other,2024,8.0,Diesel,4000.0,Denali,Pickup Truck,4.0,4WD,11.535547643006508,Unknown,Automatic,10.0,White_Interior_Black
+Jeep,Grand Cherokee L,2024,6.0,Gasoline,5000.0,Limited,SUV,4.0,4WD,10.915470209522413,Unknown,Automatic,8.0,Other_Interior_Black
+Jeep,Grand Cherokee,2024,6.0,Gasoline,6000.0,Laredo,SUV,4.0,4WD,10.605222750282607,Unknown,Automatic,8.0,White_Interior_Black
+Hyundai,Kona,2024,4.0,Gasoline,12000.0,Other,SUV,4.0,AWD,10.419061883324323,DOHC,Automatic,8.0,Black_Interior_Black
+Hyundai,Tucson Hybrid,2024,4.0,Hybrid,12000.0,Limited,SUV,4.0,AWD,10.615333810528558,DOHC,Automatic,8.0,Black_Interior_Black
+Mercedes-Benz,Other,2024,0.0,Electric,10000.0,Base 4MATIC,Sedan,4.0,AWD,11.619499244325908,Unknown,Other,8.0,White_Interior_Black
+Jaguar,Other,2024,4.0,,8000.0,Other,SUV,4.0,AWD,11.252261753742095,Unknown,Automatic,8.0,Black_Interior_Black
+RAM,3500,2024,6.0,Diesel,6000.0,Other,Pickup Truck,4.0,4WD,11.33428910947301,Other,Automatic,8.0,Red_Interior_Black
+Hyundai,IONIQ 5,2024,0.0,Electric,7000.0,SEL,SUV,4.0,AWD,10.74175187597189,Unknown,Automatic,1.0,Gray_Interior_Gray
+Toyota,Other,2024,4.0,Hybrid,8000.0,Other,SUV,4.0,AWD,10.823969489028752,Unknown,CVT,8.0,Silver_Interior_Black
+RAM,2500,2024,8.0,Gasoline,8000.0,Big Horn,Pickup Truck,4.0,4WD,11.152256842617728,Unknown,Automatic,8.0,Black_Interior_Black
+Chevrolet,Silverado 1500,2024,8.0,Gasoline,2000.0,Other,Pickup Truck,4.0,4WD,11.390520514703145,Unknown,Automatic,8.0,White_Interior_Black
+Hyundai,Kona,2024,4.0,Gasoline,1000.0,Limited,SUV,4.0,AWD,10.474184573339508,DOHC,Automatic,8.0,Gray_Interior_Gray
+Hyundai,Tucson Hybrid,2024,4.0,Hybrid,12000.0,Other,SUV,4.0,AWD,10.50783084142058,DOHC,Automatic,8.0,Black_Interior_Black
+Jeep,Other,2023,6.0,Gasoline,8000.0,Series II,SUV,4.0,4WD,11.609607430718558,DOHC,Automatic,8.0,Other_Interior_Black
+Jeep,Grand Cherokee L,2024,6.0,Gasoline,3000.0,Other,SUV,4.0,4WD,11.114028737740096,DOHC,Automatic,8.0,Gray_Interior_Black
+Hyundai,Tucson Hybrid,2024,4.0,Hybrid,10000.0,Other,SUV,4.0,AWD,10.50783084142058,DOHC,Automatic,8.0,Gray_Interior_Black
+BMW,Other,2024,0.0,Electric,5000.0,Other,Hatchback,4.0,AWD,11.190458692361233,Unknown,Automatic,1.0,White_Interior_Other
+Mazda,CX-90 PHEV,2024,4.0,Hybrid,8000.0,Preferred,SUV,4.0,AWD,10.838717794229677,DOHC,Automatic,8.0,Other_Interior_Black
+Hyundai,Santa Cruz,2024,4.0,Gasoline,1000.0,Other,Pickup Truck,4.0,AWD,10.607451025529922,DOHC,Automatic,8.0,Gray_Interior_Black
+Kia,Sportage,2024,4.0,Gasoline,1000.0,EX,SUV,4.0,FWD,10.333352547467827,DOHC,Automatic,8.0,Black_Interior_Black
+Mercedes-Benz,Other,2024,4.0,Diesel,10000.0,Other,Cargo Van,3.0,RWD,11.110999088160227,DOHC,Automatic,8.0,Gray_Interior_Other
+Hyundai,IONIQ 5,2024,0.0,Electric,10000.0,Limited,SUV,4.0,AWD,10.989622319693126,Unknown,Automatic,1.0,Black_Interior_Gray
+Cadillac,Other,2024,0.0,Electric,9000.0,Other,SUV,4.0,RWD,11.226455990357765,Unknown,Automatic,8.0,Other_Interior_Other
+Chevrolet,Silverado 1500,2024,8.0,Gasoline,5000.0,Other,Pickup Truck,4.0,4WD,10.900270121979117,Unknown,Automatic,10.0,Other_Interior_Black
+GMC,Other,2024,8.0,Gasoline,8000.0,Other,Pickup Truck,2.0,RWD,10.774027496653275,Unknown,Automatic,10.0,White_Interior_Black
+RAM,3500,2024,6.0,Diesel,8000.0,Tradesman,Pickup Truck,4.0,4WD,11.136062390867204,Unknown,Automatic,6.0,White_Interior_Black
+Hyundai,Other,2023,0.0,Electric,129000.0,SE,Sedan,4.0,AWD,10.893419004561645,Unknown,Automatic,8.0,Other_Interior_Gray
+Mercedes-Benz,Other,2024,6.0,Gasoline,6000.0,Other,SUV,4.0,AWD,11.215745092817135,DOHC,Automatic,9.0,White_Interior_Black
+Jeep,Compass,2024,4.0,Gasoline,8000.0,Other,SUV,4.0,4WD,10.424332811684366,DOHC,Automatic,8.0,Blue_Interior_Black
+Dodge,Durango,2023,8.0,Gasoline,32000.0,Pursuit,SUV,4.0,AWD,10.774487988550476,Unknown,Automatic,8.0,Black_Interior_Black
+Jeep,Wagoneer,2024,6.0,Gasoline,1000.0,Other,SUV,4.0,4WD,11.403065955109357,DOHC,Automatic,8.0,White_Interior_Black
+Ford,Mustang Mach-E,2024,0.0,Electric,3000.0,Premium,SUV,4.0,AWD,10.923886015661322,Unknown,Automatic,1.0,White_Interior_Gray
+Dodge,Hornet,2024,4.0,Gasoline,8000.0,Other,SUV,4.0,AWD,10.681090764636389,DOHC,Automatic,8.0,Other_Interior_Black
+Ford,Escape,2024,3.0,Gasoline,4000.0,Active,SUV,4.0,AWD,10.40644228192155,DOHC,Automatic,8.0,White_Interior_Gray
+Hyundai,Santa Cruz,2024,4.0,Gasoline,1000.0,Other,Pickup Truck,4.0,AWD,10.32518683708304,DOHC,Automatic,8.0,Other_Interior_Gray
+RAM,Other,2023,6.0,Gasoline,5000.0,High Roof,Cargo Van,3.0,FWD,11.018743890670061,DOHC,Automatic,9.0,White_Interior_Black
+Hyundai,Santa Cruz,2024,4.0,Gasoline,1000.0,Other,Pickup Truck,4.0,AWD,10.684760072732194,DOHC,Automatic,8.0,Black_Interior_Black
+Chrysler,Other,2024,6.0,Gasoline,8000.0,LX,Passenger Van,4.0,FWD,10.570162412764958,DOHC,Automatic,9.0,White_Interior_Black
+GMC,Other,2024,8.0,Gasoline,8000.0,Other,Pickup Truck,4.0,4WD,10.993176815825393,Unknown,Automatic,10.0,Red_Interior_Black
+Ford,Other,2023,4.0,Gasoline,4000.0,XLT,Cargo Van,4.0,FWD,10.546314649196058,Unknown,Automatic,8.0,White_Interior_Black
+Toyota,Other,2024,6.0,Hybrid,1000.0,Limited,Pickup Truck,4.0,4WD,11.011621037087874,DOHC,Automatic,10.0,Gray_Interior_Other
+RAM,2500,2024,8.0,Gasoline,8000.0,Tradesman,Pickup Truck,4.0,4WD,10.995763139986401,Unknown,Automatic,8.0,Black_Interior_Black
+Jeep,Compass,2024,4.0,Gasoline,7000.0,Latitude,SUV,4.0,4WD,10.270246481762213,DOHC,Automatic,8.0,Silver_Interior_Black
+Hyundai,IONIQ 5,2024,0.0,Electric,8000.0,SEL,SUV,4.0,RWD,10.652447797915286,Unknown,Automatic,8.0,Other_Interior_Gray
+Jeep,Compass,2024,4.0,Gasoline,9000.0,Trailhawk,SUV,4.0,4WD,10.626945679590664,DOHC,Automatic,8.0,Gray_Interior_Black
+Jeep,Other,2023,6.0,Gasoline,8000.0,Rubicon,Pickup Truck,4.0,4WD,10.90063911886528,DOHC,Automatic,8.0,Other_Interior_Black
+Hyundai,IONIQ 5,2024,0.0,Electric,7000.0,SEL,SUV,4.0,AWD,10.704726515446913,Unknown,Automatic,1.0,Other_Interior_Gray
+Hyundai,Kona,2024,4.0,Gasoline,11000.0,SEL,SUV,4.0,FWD,10.278905739291996,DOHC,CVT,8.0,Other_Interior_Gray
+GMC,Other,2024,8.0,Diesel,8000.0,Other,Pickup Truck,4.0,4WD,11.481032240083154,Unknown,Automatic,10.0,White_Interior_Other
+Kia,Sportage,2024,4.0,Gasoline,1000.0,SX,SUV,4.0,FWD,10.452648882567692,DOHC,Automatic,8.0,White_Interior_Black
+Ford,Other,2024,4.0,Gasoline,4000.0,Other,Pickup Truck,4.0,AWD,10.622448667989053,DOHC,Automatic,8.0,Gray_Interior_Other
+Jeep,Wagoneer,2024,6.0,Gasoline,18000.0,Series II,SUV,4.0,4WD,11.283361345853097,DOHC,Automatic,8.0,Other_Interior_Black
+Volkswagen,Jetta,2024,4.0,Gasoline,13000.0,Other,Sedan,4.0,FWD,10.050225108647712,DOHC,Automatic,8.0,White_Interior_Black
+Jeep,Wagoneer L,2024,6.0,Gasoline,4000.0,Base,SUV,4.0,4WD,11.216767574037403,DOHC,Automatic,8.0,Black_Interior_Black
+Hyundai,Tucson Hybrid,2024,4.0,Hybrid,12000.0,Limited,SUV,4.0,AWD,10.62083942179289,DOHC,Automatic,6.0,Gray_Interior_Black
+Ford,Edge,2024,4.0,Gasoline,5000.0,SE,SUV,4.0,AWD,10.571983369654944,DOHC,Automatic,8.0,Gray_Interior_Black
+Hyundai,IONIQ 5,2024,0.0,Electric,4000.0,SEL,SUV,4.0,AWD,10.720399840430005,Unknown,Automatic,1.0,Other_Interior_Gray
+Jeep,Wagoneer L,2024,6.0,Gasoline,4000.0,Series II,SUV,4.0,4WD,11.304190115204406,DOHC,Automatic,8.0,Silver_Interior_Black
+Nissan,Other,2024,4.0,Gasoline,8000.0,Other,Sedan,4.0,FWD,9.961567763612653,Unknown,CVT,8.0,White_Interior_Other
+Jeep,Grand Cherokee 4xe,2024,4.0,Hybrid,5000.0,Base,SUV,4.0,4WD,11.057865619110094,DOHC,Automatic,8.0,Silver_Interior_Black
+Hyundai,Kona,2024,4.0,Gasoline,8000.0,Limited,SUV,4.0,FWD,10.43323306115463,DOHC,Automatic,8.0,Red_Interior_Gray
+Ford,Edge,2024,4.0,Gasoline,10000.0,SEL,SUV,4.0,AWD,10.560981648381585,DOHC,Automatic,8.0,Gray_Interior_Other
+GMC,Other,2024,8.0,Gasoline,12000.0,Other,Pickup Truck,4.0,4WD,11.343393768104665,Unknown,Automatic,10.0,White_Interior_Other
+Jeep,Grand Cherokee,2024,6.0,Gasoline,5000.0,Limited,SUV,4.0,4WD,10.874474781329312,DOHC,Automatic,8.0,Other_Interior_Black
+Chevrolet,Silverado 1500,2024,6.0,Diesel,5000.0,Other,Pickup Truck,4.0,4WD,11.053204784521506,DOHC,Automatic,10.0,Gray_Interior_Black
+GMC,Other,2024,4.0,Gasoline,8000.0,Other,SUV,4.0,AWD,10.461416203770762,DOHC,Automatic,9.0,Other_Interior_Black
+Dodge,Hornet,2024,4.0,Gasoline,12000.0,GT AWD,SUV,4.0,AWD,10.532069544936274,DOHC,Automatic,8.0,Other_Interior_Black
+RAM,3500,2024,6.0,Diesel,12000.0,Tradesman,Pickup Truck,4.0,4WD,10.984461869350051,Unknown,Automatic,6.0,White_Interior_Black
+Volkswagen,Taos,2024,4.0,Gasoline,51000.0,1.5T SE,SUV,4.0,AWD,10.396719307901071,DOHC,Automatic,7.0,Black_Interior_Other
+Dodge,Charger,2023,6.0,Gasoline,18000.0,SXT,Sedan,4.0,AWD,10.642826285701982,DOHC,Automatic,8.0,Silver_Interior_Black
+Jeep,Compass,2024,4.0,Gasoline,10000.0,Trailhawk,SUV,4.0,4WD,10.545367754151743,DOHC,Automatic,8.0,White_Interior_Black
+Ford,Other,2023,6.0,Gasoline,8000.0,Base,Cargo Van,3.0,RWD,10.950824090522445,DOHC,Automatic,10.0,White_Interior_Gray
+Jeep,Grand Cherokee L,2024,6.0,Gasoline,10000.0,Laredo,SUV,4.0,4WD,10.783155792953782,Unknown,Automatic,8.0,Silver_Interior_Black
+Audi,Other,2024,4.0,Gasoline,12000.0,Other,SUV,4.0,AWD,11.203147738244201,DOHC,Automatic,7.0,White_Interior_Black
+Dodge,Durango,2023,8.0,Gasoline,33000.0,Pursuit,SUV,4.0,AWD,10.765132006630253,Unknown,Automatic,8.0,Black_Interior_Black
+RAM,3500,2024,6.0,Diesel,6000.0,Other,Pickup Truck,4.0,4WD,11.068386832875925,Other,Automatic,8.0,Black_Interior_Black
+Kia,Other,2024,4.0,Gasoline,12000.0,LX,SUV,4.0,FWD,10.422013452928306,DOHC,Automatic,8.0,Black_Interior_Black
+INFINITI,Other,2024,4.0,Gasoline,11000.0,Other,SUV,4.0,FWD,10.754834347769618,DOHC,Other,8.0,White_Interior_Gray
+Jeep,Grand Cherokee L,2024,6.0,Gasoline,10000.0,Limited,SUV,4.0,4WD,10.981556939972908,Unknown,Automatic,8.0,Black_Interior_Black
+Subaru,Other,2024,4.0,Gasoline,8000.0,Premium,SUV,4.0,AWD,10.38871840689063,DOHC,CVT,8.0,White_Interior_Black
+Ford,Edge,2024,4.0,Gasoline,8000.0,Other,SUV,4.0,AWD,10.736309715168556,DOHC,Automatic,8.0,Black_Interior_Black
+Jeep,Wagoneer,2024,6.0,Gasoline,59000.0,Series II,SUV,4.0,4WD,11.211820372186306,Unknown,Automatic,8.0,White_Interior_Black
+Nissan,Other,2024,6.0,Gasoline,6000.0,Other,SUV,4.0,4WD,10.649132302053827,Unknown,Automatic,8.0,Blue_Interior_Other
+Ford,Other,2023,6.0,Gasoline,8000.0,Other,Cargo Van,3.0,RWD,10.906432931112562,DOHC,Automatic,10.0,White_Interior_Gray
+Jeep,Grand Cherokee,2024,6.0,Gasoline,5000.0,Laredo,SUV,4.0,4WD,10.75856223773664,Unknown,Automatic,8.0,Silver_Interior_Black
+Jeep,Grand Cherokee,2024,6.0,Gasoline,5000.0,Laredo,SUV,4.0,4WD,10.655516660832296,Unknown,Automatic,8.0,Silver_Interior_Black
+Dodge,Hornet,2024,4.0,Gasoline,18000.0,Other,SUV,4.0,AWD,10.655775902199244,DOHC,Automatic,9.0,Gray_Interior_Black
+Jeep,Grand Cherokee L,2024,6.0,Gasoline,8000.0,Limited,SUV,4.0,4WD,10.933392643194447,DOHC,Automatic,8.0,Gray_Interior_Black
+Acura,MDX,2024,6.0,Gasoline,16000.0,Base,SUV,4.0,AWD,10.86572631831299,Other,Automatic,10.0,Silver_Interior_Other
+Kia,Other,2024,0.0,Electric,13000.0,Wind,SUV,4.0,AWD,10.645234402932136,Unknown,Automatic,8.0,Black_Interior_Black
+Honda,Other,2024,4.0,Gasoline,14000.0,LX,SUV,4.0,FWD,10.163965423497029,DOHC,Automatic,8.0,Other_Interior_Black
+Honda,Other,2024,6.0,Gasoline,8000.0,Other,SUV,4.0,AWD,10.743998145734295,Other,Automatic,9.0,Other_Interior_Black
+Honda,Other,2024,4.0,Gasoline,5000.0,LX,SUV,4.0,AWD,10.22015787614662,DOHC,Automatic,8.0,Other_Interior_Black
+Kia,Sportage,2024,4.0,Gasoline,148000.0,EX,SUV,4.0,AWD,10.415592357800499,DOHC,Automatic,8.0,Black_Interior_Gray
+Kia,Sportage,2024,4.0,Gasoline,12000.0,Other,SUV,4.0,AWD,10.5950334517291,DOHC,Automatic,8.0,White_Interior_Black
+Kia,Sportage,2024,4.0,Gasoline,16000.0,X-Line,SUV,4.0,AWD,10.475483531531923,DOHC,Automatic,8.0,Gray_Interior_Other
+Jeep,Grand Cherokee 4xe,2024,4.0,Hybrid,20000.0,Base,SUV,4.0,4WD,10.935247534216398,DOHC,Automatic,8.0,Other_Interior_Black
+Dodge,Hornet,2024,4.0,Gasoline,15000.0,GT,SUV,4.0,AWD,10.513551992534897,DOHC,Automatic,9.0,Gray_Interior_Black
+Dodge,Hornet,2024,4.0,Gasoline,8000.0,GT AWD,SUV,4.0,AWD,10.479707581066782,DOHC,Automatic,8.0,Blue_Interior_Black
+Hyundai,Santa Cruz,2024,4.0,Gasoline,1000.0,Other,Pickup Truck,4.0,AWD,10.605990828020099,DOHC,Automatic,8.0,Gray_Interior_Black
+Jeep,Compass,2024,4.0,Gasoline,14000.0,Latitude,SUV,4.0,4WD,10.486708253717469,DOHC,Automatic,8.0,White_Interior_Other
+Hyundai,Tucson Hybrid,2024,4.0,Hybrid,10000.0,Limited,SUV,4.0,AWD,10.63875987814672,DOHC,Automatic,6.0,Gray_Interior_Gray
+Hyundai,Tucson Hybrid,2024,4.0,Hybrid,10000.0,Limited,SUV,4.0,AWD,10.63875987814672,DOHC,Automatic,6.0,Other_Interior_Gray
+Jeep,Grand Cherokee 4xe,2024,4.0,Hybrid,26000.0,Base,SUV,4.0,4WD,11.039010195224336,DOHC,Automatic,8.0,Other_Interior_Black
+Audi,Other,2024,4.0,Gasoline,12000.0,Other,Hatchback,4.0,AWD,10.965366698148017,DOHC,Automatic,7.0,Black_Interior_Other
+Jeep,Other,2024,6.0,Gasoline,8000.0,Other,SUV,4.0,4WD,11.594855621061042,DOHC,Automatic,8.0,White_Interior_Other
+RAM,3500,2024,6.0,Diesel,13000.0,Tradesman,Pickup Truck,4.0,4WD,11.06052596967285,Unknown,Automatic,8.0,White_Interior_Black
+Ford,Other,2024,6.0,Gasoline,8000.0,Base,Cargo Van,3.0,AWD,11.06704452984462,DOHC,Automatic,8.0,White_Interior_Other
+RAM,3500,2024,6.0,Diesel,10000.0,Laramie,Pickup Truck,4.0,4WD,11.366985980814487,Unknown,Automatic,8.0,White_Interior_Black
+RAM,2500,2024,8.0,Gasoline,8000.0,Big Horn,Pickup Truck,4.0,4WD,11.258368642950275,Unknown,Automatic,8.0,Other_Interior_Black
+Dodge,Hornet,2024,4.0,Gasoline,5000.0,GT,SUV,4.0,AWD,10.496703894471024,DOHC,Automatic,9.0,Blue_Interior_Black
+Chevrolet,Silverado 1500,2024,4.0,Gasoline,2000.0,Other,Pickup Truck,4.0,4WD,10.679964340683078,DOHC,Automatic,8.0,Black_Interior_Black
+Kia,Sportage,2024,4.0,Gasoline,1000.0,X-Line,SUV,4.0,AWD,10.464274083455889,DOHC,Automatic,8.0,Black_Interior_Black
+Jeep,Wagoneer,2024,6.0,Gasoline,20000.0,Base,SUV,4.0,4WD,11.073412242722492,Unknown,Automatic,8.0,Black_Interior_Black
+RAM,3500,2024,6.0,Diesel,27000.0,Big Horn,Pickup Truck,4.0,4WD,11.118741484979926,Unknown,Automatic,6.0,Silver_Interior_Black
+Cadillac,Other,2024,0.0,Electric,4000.0,Luxury,SUV,4.0,AWD,11.007269787305745,Unknown,Automatic,1.0,White_Interior_Black
+Jeep,Grand Cherokee 4xe,2024,4.0,Hybrid,26000.0,Base,SUV,4.0,4WD,11.021575617704894,DOHC,Automatic,8.0,Red_Interior_Black
+Jeep,Grand Cherokee 4xe,2023,4.0,Hybrid,8000.0,Trailhawk,SUV,4.0,4WD,11.122117415455683,DOHC,Automatic,8.0,Other_Interior_Black
+Mercedes-Benz,Other,2024,4.0,Diesel,10000.0,Other,Cargo Van,3.0,RWD,11.02315984760253,DOHC,Automatic,9.0,White_Interior_Black
+BMW,Other,2024,6.0,Gasoline,8000.0,Other,SUV,4.0,AWD,11.460536834078507,DOHC,Automatic,8.0,Blue_Interior_Other
+Kia,Other,2024,4.0,Gasoline,8000.0,SX,SUV,4.0,AWD,10.357457069703907,DOHC,Automatic,8.0,Gray_Interior_Other
+Ford,Other,2024,6.0,Gasoline,8000.0,XLT,SUV,4.0,4WD,11.157906292342437,DOHC,Automatic,10.0,Black_Interior_Black
+Jeep,Wagoneer L,2024,6.0,Gasoline,10000.0,Series II,SUV,4.0,4WD,11.258329945506237,DOHC,Automatic,8.0,Black_Interior_Black
+Jeep,Grand Cherokee 4xe,2024,4.0,Hybrid,8000.0,Other,SUV,4.0,4WD,11.272839192925707,DOHC,Automatic,8.0,Other_Interior_Black
+Nissan,Kicks,2024,4.0,Gasoline,12000.0,SR,SUV,4.0,FWD,10.090216051148289,DOHC,CVT,8.0,Blue_Interior_Other
+Buick,Other,2024,3.0,Gasoline,5000.0,Other,SUV,4.0,FWD,10.239995502805316,DOHC,Automatic,6.0,Red_Interior_Black
+Kia,Sportage,2024,4.0,Gasoline,10000.0,SX,SUV,4.0,FWD,10.416041681575788,DOHC,Automatic,8.0,Black_Interior_Black
+Jeep,Grand Cherokee 4xe,2024,4.0,Hybrid,2000.0,Trailhawk,SUV,4.0,4WD,11.016742117941108,DOHC,Automatic,8.0,Other_Interior_Black
+Dodge,Hornet,2024,4.0,Gasoline,24000.0,GT AWD,SUV,4.0,AWD,10.618420686417931,DOHC,Automatic,8.0,Other_Interior_Black
+Dodge,Hornet,2024,4.0,Gasoline,1000.0,GT,SUV,4.0,AWD,10.585472668389881,DOHC,Automatic,9.0,Other_Interior_Other
+Ford,Other,2024,3.0,Gasoline,14000.0,Other,SUV,4.0,4WD,10.465329432318082,DOHC,Automatic,8.0,Black_Interior_Black
+Cadillac,Other,2024,4.0,Gasoline,3000.0,Luxury,SUV,4.0,AWD,10.764075281534032,DOHC,Automatic,8.0,Silver_Interior_Black
+Jeep,Grand Cherokee,2024,6.0,Gasoline,6000.0,Limited,SUV,4.0,4WD,10.709070162425862,DOHC,Automatic,8.0,White_Interior_Black
+Chevrolet,Other,2025,6.0,Gasoline,1000.0,Other,SUV,4.0,FWD,10.173171119285234,Unknown,Automatic,8.0,White_Interior_Black
+Mercedes-Benz,Other,2024,4.0,Gasoline,8000.0,Base 4MATIC,SUV,4.0,AWD,10.891373101232979,DOHC,Other,8.0,White_Interior_Other
+Ford,Other,2024,6.0,Gasoline,6000.0,Other,SUV,4.0,4WD,11.36779564126401,DOHC,Automatic,10.0,Black_Interior_Other
+RAM,3500,2024,6.0,Diesel,15000.0,Laramie,Pickup Truck,4.0,4WD,11.346894493112254,Unknown,Automatic,8.0,Silver_Interior_Black
+BMW,Other,2024,6.0,Gasoline,9000.0,Other,SUV,4.0,AWD,11.392970071452188,DOHC,Automatic,8.0,Other_Interior_Black
+Kia,Sportage,2024,4.0,Gasoline,10000.0,X-Line,SUV,4.0,AWD,10.42150723688236,DOHC,Automatic,8.0,Gray_Interior_Black
+Mercedes-Benz,Other,2024,4.0,Diesel,10000.0,Other,Passenger Van,3.0,RWD,11.142122619124065,DOHC,Automatic,9.0,Black_Interior_Black
+RAM,3500,2024,6.0,Diesel,10000.0,Tradesman,Pickup Truck,4.0,4WD,11.017415291982012,Unknown,Automatic,8.0,Red_Interior_Black
+Cadillac,Other,2024,0.0,Electric,19000.0,Luxury,SUV,4.0,AWD,11.19973411321324,Unknown,Automatic,1.0,Other_Interior_Gray
+Kia,Other,2024,6.0,Gasoline,8000.0,Other,SUV,4.0,AWD,10.8583449375591,Unknown,Automatic,8.0,Gray_Interior_Black
+Jeep,Wagoneer L,2024,6.0,Gasoline,4000.0,Base,SUV,4.0,4WD,11.216767574037403,DOHC,Automatic,8.0,Black_Interior_Black
+RAM,3500,2024,6.0,Diesel,22000.0,Tradesman,Pickup Truck,4.0,4WD,11.061484478871714,Unknown,Automatic,8.0,Red_Interior_Black
+Ford,Other,2024,3.0,Gasoline,10000.0,Other,SUV,4.0,4WD,10.463417576808427,DOHC,Automatic,8.0,Red_Interior_Black
+Mazda,Other,2024,6.0,Gasoline,8000.0,Other,SUV,4.0,AWD,10.817796321618971,DOHC,Automatic,8.0,Gray_Interior_Black
+Mercedes-Benz,Other,2024,6.0,Gasoline,7000.0,Other,SUV,4.0,AWD,11.237514460719542,DOHC,Automatic,9.0,White_Interior_Black
+RAM,3500,2024,6.0,Diesel,10000.0,Laramie,Pickup Truck,4.0,4WD,11.443618258370886,Unknown,Automatic,8.0,Other_Interior_Black
+Mazda,CX-90 PHEV,2024,4.0,Hybrid,4000.0,Premium Plus,SUV,4.0,AWD,10.969059987126037,DOHC,Automatic,8.0,Other_Interior_Black
+Jeep,Grand Cherokee L,2024,6.0,Gasoline,10000.0,Altitude,SUV,4.0,4WD,10.804887971915088,DOHC,Automatic,8.0,White_Interior_Black
+Ford,Other,2024,6.0,Gasoline,6000.0,Base,Cargo Van,3.0,RWD,10.871250562779245,DOHC,Automatic,10.0,White_Interior_Gray
+Kia,Sportage,2024,4.0,Gasoline,1000.0,Other,SUV,4.0,AWD,10.54641980443157,DOHC,Automatic,8.0,Black_Interior_Black
+Jeep,Grand Cherokee L,2024,6.0,Gasoline,8000.0,Limited,SUV,4.0,4WD,10.807523500343269,Unknown,Automatic,8.0,Black_Interior_Black
+Hyundai,Kona,2024,4.0,Gasoline,10000.0,Limited,SUV,4.0,FWD,10.388749184170845,DOHC,Automatic,8.0,Black_Interior_Black
+Mercedes-Benz,Other,2024,4.0,Gasoline,7000.0,Base 4MATIC,SUV,4.0,AWD,10.85371583543798,DOHC,Automatic,8.0,Black_Interior_Black
+Chevrolet,Silverado 1500,2024,6.0,Diesel,8000.0,LT,Pickup Truck,4.0,4WD,10.980552693116142,DOHC,Automatic,8.0,Gray_Interior_Black
+Genesis,Other,2024,0.0,Electric,11000.0,Other,SUV,4.0,AWD,11.010249872622438,Unknown,Automatic,1.0,Black_Interior_Black
+Hyundai,Tucson Hybrid,2024,4.0,Hybrid,8000.0,SEL Convenience,SUV,4.0,AWD,10.52449405531839,DOHC,Automatic,6.0,Black_Interior_Gray
+Kia,Sportage,2024,4.0,Gasoline,10000.0,SX,SUV,4.0,FWD,10.404141620980623,DOHC,Automatic,8.0,Black_Interior_Black
+Dodge,Durango,2023,8.0,Gasoline,14000.0,Pursuit,SUV,4.0,AWD,10.765132006630253,Unknown,Automatic,8.0,Black_Interior_Black
+Mazda,Other,2024,6.0,Gasoline,8000.0,Other,SUV,4.0,AWD,10.911463720944793,DOHC,Automatic,8.0,White_Interior_Other
+Jeep,Grand Cherokee 4xe,2024,4.0,Gasoline,15000.0,Base,SUV,4.0,4WD,10.80539534404283,DOHC,Automatic,8.0,White_Interior_Black
+Dodge,Hornet,2024,4.0,Gasoline,8000.0,Hornet R/T Plus Eawd,SUV,4.0,AWD,10.817696118205959,DOHC,Automatic,8.0,Gray_Interior_Black
+Jeep,Compass,2024,4.0,Gasoline,11000.0,Latitude,SUV,4.0,4WD,10.270246481762213,DOHC,Automatic,8.0,Blue_Interior_Black
+Jeep,Grand Cherokee 4xe,2024,4.0,Hybrid,5000.0,Base,SUV,4.0,4WD,11.057865619110094,DOHC,Automatic,8.0,Other_Interior_Black
+Honda,Other,2025,4.0,Gasoline,8000.0,Other,SUV,4.0,AWD,10.553361820862607,Unknown,CVT,8.0,Gray_Interior_Black
+Dodge,Durango,2024,8.0,Gasoline,10000.0,R/T,SUV,4.0,AWD,10.95931411426741,Unknown,Automatic,8.0,Gray_Interior_Black
+Dodge,Hornet,2024,4.0,Hybrid,16000.0,R/T,SUV,4.0,AWD,10.598782425153532,DOHC,Automatic,6.0,Blue_Interior_Black
+Volvo,Other,2024,4.0,Hybrid,3000.0,Other,Sedan,4.0,AWD,10.960339906956007,DOHC,Automatic,8.0,Black_Interior_Other
+Ford,Other,2024,6.0,Gasoline,85000.0,Base,Cargo Van,3.0,AWD,11.217103688158033,DOHC,Automatic,8.0,White_Interior_Gray
+Kia,Other,2023,4.0,Gasoline,16000.0,EX,SUV,4.0,AWD,10.71168069304257,DOHC,Automatic,8.0,Black_Interior_Black
+RAM,3500,2024,6.0,Diesel,16000.0,Tradesman,Pickup Truck,4.0,4WD,11.08161933510224,Unknown,Automatic,8.0,Other_Interior_Black
+Ford,Escape,2024,4.0,Hybrid,10000.0,Platinum,SUV,4.0,AWD,10.557945878480961,Unknown,Automatic,8.0,Black_Interior_Black
+RAM,3500,2024,6.0,Diesel,16000.0,Laramie,Pickup Truck,4.0,4WD,11.252676960702777,Unknown,Automatic,8.0,White_Interior_Black
+Mazda,CX-90 PHEV,2024,4.0,Gasoline,5000.0,Base,SUV,4.0,AWD,10.982339213026084,DOHC,Automatic,8.0,Blue_Interior_Other
+Nissan,Kicks,2024,4.0,Gasoline,12000.0,SR,SUV,4.0,FWD,10.178692103476797,DOHC,CVT,8.0,Gray_Interior_Other
+Dodge,Hornet,2024,4.0,Gasoline,8000.0,Hornet R/T Plus Eawd,SUV,4.0,AWD,10.814182658053124,DOHC,Automatic,8.0,Other_Interior_Black
+Chevrolet,Silverado 1500,2024,4.0,Gasoline,8000.0,Other,Pickup Truck,4.0,4WD,10.831034692665982,DOHC,Automatic,8.0,Black_Interior_Black
+Buick,Other,2024,3.0,Gasoline,8000.0,Other,SUV,4.0,FWD,10.367410230215862,DOHC,Automatic,6.0,Blue_Interior_Black
+Chevrolet,Equinox,2024,4.0,Gasoline,11000.0,RS,SUV,4.0,AWD,10.564059887163895,DOHC,Automatic,6.0,Red_Interior_Black
+Cadillac,Other,2024,4.0,Gasoline,6000.0,Other,SUV,4.0,FWD,10.828063863997055,DOHC,Automatic,9.0,White_Interior_Black
+Ford,Other,2024,6.0,Gasoline,24000.0,Other,Cargo Van,3.0,RWD,10.829471156381183,DOHC,Automatic,10.0,White_Interior_Gray
+Volkswagen,Taos,2024,4.0,Gasoline,11000.0,1.5T SE,SUV,4.0,FWD,10.38612972782783,DOHC,Automatic,8.0,Black_Interior_Black
+Kia,Sportage,2024,4.0,Gasoline,1000.0,Other,SUV,4.0,AWD,10.602890127258581,DOHC,Automatic,8.0,Black_Interior_Black
+Dodge,Durango,2023,8.0,Gasoline,11000.0,Pursuit,SUV,4.0,AWD,10.765132006630253,Unknown,Automatic,8.0,Black_Interior_Black
+Subaru,Other,2024,4.0,Gasoline,5000.0,Sport,Hatchback,4.0,AWD,10.277427593236435,DOHC,CVT,8.0,Red_Interior_Black
+Mazda,Other,2025,6.0,Gasoline,8000.0,Other,SUV,4.0,AWD,10.908173703172075,Unknown,Automatic,8.0,Other_Interior_Other
+Chrysler,Other,2024,6.0,Gasoline,5000.0,LX,Passenger Van,4.0,FWD,10.570162412764958,DOHC,Automatic,9.0,White_Interior_Black
+Jeep,Grand Cherokee,2024,6.0,Gasoline,8000.0,Limited,SUV,4.0,4WD,10.816633344266204,DOHC,Automatic,8.0,White_Interior_Black
+Nissan,Other,2024,6.0,Gasoline,6000.0,Other,SUV,4.0,AWD,10.74744412273953,DOHC,CVT,8.0,Other_Interior_Other
+Hyundai,Tucson Hybrid,2024,4.0,Hybrid,7000.0,Limited,SUV,4.0,AWD,10.619716292539394,DOHC,Automatic,6.0,Black_Interior_Gray
+BMW,Other,2024,4.0,Gasoline,5000.0,Other,SUV,4.0,RWD,10.807624728237712,DOHC,Automatic,8.0,Black_Interior_Other
+Jeep,Compass,2024,4.0,Gasoline,7000.0,Latitude,SUV,4.0,4WD,10.249414947928097,DOHC,Automatic,8.0,White_Interior_Black
+RAM,2500,2024,8.0,Gasoline,8000.0,Other,Pickup Truck,2.0,4WD,10.892117550468008,Unknown,Automatic,8.0,White_Interior_Black
+Subaru,Other,2024,4.0,Gasoline,8000.0,Limited,SUV,4.0,AWD,10.592199913805961,DOHC,CVT,8.0,White_Interior_Black
+Jeep,Wagoneer L,2024,6.0,Gasoline,21000.0,Series II,SUV,4.0,4WD,11.3866363550199,DOHC,Automatic,8.0,Red_Interior_Black
+Ford,Escape,2024,3.0,Gasoline,8000.0,Other,SUV,4.0,FWD,10.335237500902117,DOHC,Automatic,8.0,Black_Interior_Other
+Volvo,Other,2023,0.0,Electric,8000.0,Other,SUV,4.0,AWD,11.03876922556125,Unknown,Automatic,8.0,Gray_Interior_Other
+Jeep,Compass,2023,4.0,Gasoline,24000.0,Trailhawk,SUV,4.0,4WD,10.55323128448846,DOHC,Automatic,8.0,White_Interior_Black
+Volkswagen,Taos,2024,4.0,Gasoline,5000.0,Other,SUV,4.0,AWD,10.139033870567381,DOHC,Automatic,7.0,Silver_Interior_Black
+Jeep,Grand Cherokee L,2024,6.0,Gasoline,10000.0,Laredo,SUV,4.0,4WD,10.803689552060698,Unknown,Automatic,8.0,Other_Interior_Black
+Volkswagen,Taos,2024,4.0,Gasoline,11000.0,1.5T SE,SUV,4.0,AWD,10.288307678667005,DOHC,Automatic,7.0,White_Interior_Black
+Jeep,Wagoneer L,2023,6.0,Gasoline,20000.0,Base,SUV,4.0,4WD,11.195965617451733,DOHC,Automatic,8.0,Black_Interior_Black
+Volkswagen,Taos,2024,4.0,Gasoline,6000.0,1.5T SE,SUV,4.0,AWD,10.274878680310541,DOHC,Automatic,7.0,Gray_Interior_Black
+Dodge,Hornet,2024,4.0,Gasoline,8000.0,Hornet R/T Plus Eawd,SUV,4.0,AWD,10.817696118205959,DOHC,Automatic,8.0,Other_Interior_Black
+Hyundai,Tucson Hybrid,2024,4.0,Hybrid,8000.0,SEL Convenience,SUV,4.0,AWD,10.499049467245019,DOHC,Automatic,6.0,Silver_Interior_Gray
+Ford,Other,2024,6.0,Gasoline,13000.0,Limited,SUV,4.0,4WD,11.29445846153992,DOHC,Automatic,10.0,Black_Interior_Black
+RAM,Other,2024,6.0,Gasoline,10000.0,Other,Cargo Van,3.0,FWD,10.847023733300478,DOHC,Automatic,9.0,White_Interior_Black
+Dodge,Hornet,2024,4.0,Gasoline,8000.0,Hornet R/T Plus Eawd,SUV,4.0,AWD,10.862473722937901,DOHC,Automatic,8.0,Blue_Interior_Black
+Volkswagen,Taos,2024,4.0,Gasoline,11000.0,1.5T SE,SUV,4.0,AWD,10.275016625615446,DOHC,Automatic,7.0,Gray_Interior_Black
+Nissan,Kicks,2024,4.0,Gasoline,5000.0,SV,SUV,4.0,FWD,10.125830783679568,DOHC,CVT,8.0,Black_Interior_Other
+Ford,Other,2024,6.0,Gasoline,1000.0,Other,Cargo Van,3.0,RWD,10.86915875050772,DOHC,Other,8.0,White_Interior_Other
+Hyundai,IONIQ 5,2024,0.0,Electric,12000.0,SE,SUV,4.0,RWD,10.550643149245081,Unknown,Automatic,8.0,Other_Interior_Gray
+RAM,Other,2023,6.0,Gasoline,8000.0,High Roof,Cargo Van,3.0,FWD,10.824686220762866,DOHC,Automatic,8.0,White_Interior_Black
+Kia,Other,2024,0.0,Electric,13000.0,Wind,SUV,4.0,AWD,10.634147257355846,Unknown,Automatic,8.0,Blue_Interior_Black
+Jeep,Grand Cherokee 4xe,2024,4.0,Gasoline,51000.0,Base,SUV,4.0,4WD,10.801268021651186,DOHC,Automatic,8.0,White_Interior_Black
+Subaru,Other,2024,4.0,Gasoline,5000.0,RS,Hatchback,4.0,AWD,10.376580155984879,DOHC,CVT,8.0,Black_Interior_Black
+Jeep,Grand Cherokee 4xe,2024,4.0,Hybrid,11000.0,Base,SUV,4.0,4WD,10.892880036208343,DOHC,Automatic,8.0,Red_Interior_Black
+Jeep,Grand Cherokee L,2024,6.0,Gasoline,10000.0,Laredo,SUV,4.0,4WD,10.80242864607517,Unknown,Automatic,8.0,Red_Interior_Black
+Ford,Other,2024,6.0,Gasoline,7000.0,XLT,SUV,4.0,4WD,11.186308505179742,DOHC,Automatic,10.0,Black_Interior_Black
+Honda,Other,2024,4.0,Gasoline,8000.0,Other,SUV,4.0,AWD,10.544446301350487,DOHC,CVT,8.0,Other_Interior_Black
+Kia,Other,2024,4.0,Gasoline,5000.0,S,Hatchback,4.0,FWD,9.952325334619427,Unknown,Automatic,8.0,Other_Interior_Black
+Hyundai,Tucson Hybrid,2024,4.0,Hybrid,1000.0,SEL Convenience,SUV,4.0,AWD,10.527713287629652,DOHC,Automatic,6.0,Black_Interior_Black
+Kia,Sportage,2024,4.0,Gasoline,1000.0,X-Line,SUV,4.0,AWD,10.427801794482674,DOHC,Automatic,8.0,Red_Interior_Black
+Chrysler,Other,2023,6.0,Gasoline,10000.0,Other,Sedan,4.0,RWD,10.491135318903403,DOHC,Automatic,8.0,Black_Interior_Black
+GMC,Other,2024,8.0,Gasoline,3000.0,Other,Pickup Truck,2.0,RWD,10.784544811638616,Unknown,Automatic,10.0,White_Interior_Black
+Dodge,Hornet,2024,4.0,Hybrid,5000.0,R/T Plus,SUV,4.0,AWD,10.717568355991702,DOHC,Automatic,6.0,Blue_Interior_Black
+Volkswagen,Taos,2024,4.0,Gasoline,66000.0,Other,SUV,4.0,AWD,10.243489267499987,DOHC,Automatic,7.0,Black_Interior_Black
+Nissan,Kicks,2024,4.0,Gasoline,12000.0,SR,SUV,4.0,FWD,10.103608096692797,DOHC,CVT,8.0,Blue_Interior_Other
+Nissan,Kicks,2024,4.0,Gasoline,12000.0,SR,SUV,4.0,FWD,10.103608096692797,DOHC,CVT,8.0,Black_Interior_Other
+Nissan,Kicks,2024,4.0,Gasoline,12000.0,SR,SUV,4.0,FWD,10.129865866360268,DOHC,CVT,8.0,Black_Interior_Other
+Mercedes-Benz,Other,2024,4.0,Gasoline,5000.0,Base 4MATIC,Sedan,4.0,AWD,11.211293206231721,DOHC,Automatic,9.0,Black_Interior_Black
+Jeep,Grand Cherokee L,2024,6.0,Gasoline,10000.0,Laredo,SUV,4.0,4WD,10.75064254557542,Unknown,Automatic,8.0,Black_Interior_Black
+Dodge,Hornet,2024,4.0,Hybrid,18000.0,R/T,SUV,4.0,AWD,10.680309299119006,DOHC,Automatic,6.0,Gray_Interior_Black
+Dodge,Durango,2023,8.0,Gasoline,22000.0,Pursuit,SUV,4.0,AWD,10.763863802448526,Unknown,Automatic,8.0,White_Interior_Black
+RAM,3500,2024,6.0,Diesel,11000.0,Other,Pickup Truck,4.0,4WD,11.301315149469692,Other,Automatic,8.0,White_Interior_Black
+Chevrolet,Equinox,2024,4.0,Gasoline,6000.0,Other,SUV,4.0,AWD,10.43346853534186,DOHC,Automatic,6.0,White_Interior_Black
+Kia,Sportage,2024,4.0,Gasoline,41000.0,X-Line,SUV,4.0,AWD,10.48559143430275,DOHC,Automatic,8.0,Gray_Interior_Other
+Ford,Other,2024,4.0,Gasoline,4000.0,XLT,Pickup Truck,4.0,AWD,10.506463824584774,DOHC,Automatic,8.0,Gray_Interior_Black
+Hyundai,Tucson Hybrid,2024,4.0,Hybrid,10000.0,SEL Convenience,SUV,4.0,AWD,10.540223099170111,DOHC,Automatic,6.0,White_Interior_Gray
+Jeep,Wagoneer,2024,6.0,Gasoline,10000.0,Series II,SUV,4.0,4WD,11.220244250940128,DOHC,Automatic,8.0,Silver_Interior_Black
+Kia,Sportage,2024,4.0,Gasoline,141000.0,X-Line,SUV,4.0,AWD,10.474495347310453,DOHC,Automatic,8.0,Other_Interior_Other
+Dodge,Hornet,2024,4.0,Hybrid,5000.0,R/T Plus,SUV,4.0,AWD,10.68313347871269,DOHC,Automatic,6.0,Gray_Interior_Black
+Jeep,Grand Cherokee L,2024,6.0,Gasoline,7000.0,Altitude,SUV,4.0,4WD,10.816512959033314,DOHC,Automatic,8.0,Silver_Interior_Black
+Hyundai,Kona,2024,4.0,Gasoline,8000.0,SE,SUV,4.0,AWD,10.223975576713087,DOHC,CVT,8.0,Other_Interior_Black
+Ford,Escape,2024,3.0,Gasoline,10000.0,Active,SUV,4.0,FWD,10.28554755219797,DOHC,Automatic,8.0,Gray_Interior_Black
+Ford,Edge,2024,4.0,Gasoline,2000.0,SE,SUV,4.0,AWD,10.597034653117401,DOHC,Automatic,8.0,Gray_Interior_Black
+Kia,Sportage,2024,4.0,Gasoline,10000.0,Other,SUV,4.0,FWD,10.468687718765452,DOHC,Automatic,8.0,Black_Interior_Black
+Kia,Other,2024,0.0,Electric,14000.0,Wind,SUV,4.0,AWD,10.679135954607817,Unknown,Automatic,8.0,Black_Interior_Black
+Ford,Other,2024,3.0,Gasoline,8000.0,Other,SUV,4.0,4WD,10.480550254075272,Unknown,Automatic,8.0,Gray_Interior_Other
+Kia,Other,2024,4.0,Gasoline,8000.0,Other,Sedan,4.0,FWD,9.955652966516807,DOHC,CVT,8.0,Gray_Interior_Black
+Nissan,Other,2024,4.0,Gasoline,4000.0,S,Sedan,4.0,FWD,9.94477343944167,DOHC,CVT,8.0,Other_Interior_Other
+Ford,Other,2024,4.0,Gasoline,8000.0,XLT,SUV,4.0,RWD,10.684782963622766,DOHC,Automatic,10.0,Gray_Interior_Black
+Jeep,Wagoneer L,2024,6.0,Gasoline,20000.0,Base,SUV,4.0,4WD,11.109024133525745,DOHC,Automatic,8.0,Silver_Interior_Black
+RAM,Other,2024,6.0,Gasoline,12000.0,Other,Cargo Van,3.0,FWD,10.795956792284281,DOHC,Automatic,9.0,White_Interior_Black
+Hyundai,Tucson Hybrid,2024,4.0,Hybrid,5000.0,SEL Convenience,SUV,4.0,AWD,10.52462839711098,DOHC,Automatic,6.0,Other_Interior_Gray
+Jeep,Grand Cherokee 4xe,2024,4.0,Hybrid,29000.0,Trailhawk,SUV,4.0,4WD,11.114907557497114,DOHC,Automatic,8.0,Other_Interior_Black
+Hyundai,Tucson Hybrid,2024,4.0,Hybrid,5000.0,SEL Convenience,SUV,4.0,AWD,10.527016666215204,DOHC,Automatic,6.0,Gray_Interior_Black
+Jeep,Grand Cherokee 4xe,2024,4.0,Hybrid,6000.0,Other,SUV,4.0,4WD,11.255643264909532,DOHC,Automatic,8.0,Other_Interior_Black
+Jeep,Grand Cherokee 4xe,2024,4.0,Hybrid,24000.0,Other,SUV,4.0,4WD,11.160711982466704,DOHC,Automatic,8.0,Other_Interior_Black
+Jeep,Compass,2024,4.0,Gasoline,17000.0,Latitude,SUV,4.0,4WD,10.500454174622105,DOHC,Automatic,8.0,Silver_Interior_Black
+Jeep,Grand Cherokee 4xe,2024,4.0,Hybrid,11000.0,Base,SUV,4.0,4WD,11.040422715523396,DOHC,Automatic,8.0,White_Interior_Black
+RAM,3500,2024,6.0,Diesel,8000.0,Tradesman,Pickup Truck,4.0,4WD,11.119097383256094,Unknown,Automatic,8.0,White_Interior_Black
+Hyundai,Tucson Hybrid,2024,4.0,Hybrid,16000.0,Limited,SUV,4.0,AWD,10.617319324288905,DOHC,Automatic,8.0,Gray_Interior_Black
+Jeep,Other,2024,6.0,Gasoline,5000.0,Sport,Pickup Truck,4.0,4WD,10.908173703172075,DOHC,Automatic,8.0,Other_Interior_Black
+Jeep,Grand Cherokee L,2024,6.0,Gasoline,8000.0,Limited,SUV,4.0,4WD,10.99666845120703,DOHC,Automatic,8.0,Black_Interior_Black
+RAM,2500,2024,6.0,Diesel,8000.0,Tradesman,Pickup Truck,4.0,4WD,11.146431038760136,Unknown,Automatic,8.0,White_Interior_Black
+Mercedes-Benz,Other,2024,4.0,Diesel,10000.0,Other,Cargo Van,3.0,RWD,10.985936583361818,DOHC,Automatic,9.0,White_Interior_Black
+Dodge,Hornet,2024,4.0,Gasoline,8000.0,Hornet R/T Plus Eawd,SUV,4.0,AWD,10.814182658053124,DOHC,Automatic,8.0,Other_Interior_Black
+Jeep,Wagoneer,2024,6.0,Gasoline,20000.0,Base,SUV,4.0,4WD,11.143107384308207,DOHC,Automatic,8.0,Black_Interior_Black
+Nissan,Other,2024,6.0,Gasoline,6000.0,Other,SUV,4.0,AWD,10.680424258825756,DOHC,Automatic,8.0,White_Interior_Other
+Chevrolet,Other,2024,8.0,Gasoline,31000.0,Other,Pickup Truck,4.0,RWD,10.799493941107576,Unknown,Automatic,8.0,Other_Interior_Black
