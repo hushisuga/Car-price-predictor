@@ -23,14 +23,46 @@ The dataset (`dataset.csv`) contains records of various vehicles with features c
 - Numerical: `year`, `mileage`, `cylinders`, `doors`, `transmission_speed`
 - Target: `log_price` (log-transformed version of `price`)
 
-## Model Information
+## Model Accuracy & Performance
 
-- Model: Ridge Regression (L2 regularization)
-- Preprocessing: Standard scaling for numerical columns, one-hot encoding for categorical columns
-- Target: `log_price`, exponentiated during prediction to return actual dollar value
-- Performance:
-  - R² Score: ~0.89
-  - RMSE: ~0.11 (on log scale)
+The vehicle price prediction model was built to estimate the **log-transformed price** of a car based on various attributes such as brand, fuel type, mileage, year, engine specifications, and more.
+
+###  Models Trained
+
+- **Linear Regression**
+- **Ridge Regression**
+- **Lasso Regression**
+
+These models were trained using a full scikit-learn pipeline that included preprocessing steps like feature scaling and one-hot encoding.
+
+###  Evaluation Metrics Used
+
+- **R² Score**: Measures how well the model explains the variance in the target variable.
+- **RMSE (Root Mean Squared Error)**: Indicates the average error between predicted and actual values (in log scale).
+
+###  Model Performance Summary
+
+| Model              | R² Score | RMSE     |
+|-------------------|----------|----------|
+| Linear Regression | **0.8914** | **0.1136** |
+| Ridge Regression  | 0.8896   | 0.1146   |
+| Lasso Regression  | -0.0020  | 0.3451   |
+
+###  Insights & Observations
+
+- **Best Performing Model:**  
+  - **Linear Regression**, with an R² of **0.8914**, indicating that it explains ~89% of the variance in car prices.
+- **Ridge Regression** also performed well and helps reduce overfitting by applying L2 regularization.
+- **Lasso Regression** did not perform well in this case, likely due to over-penalizing relevant features.
+
+###  Technologies Used
+
+- Python
+- scikit-learn
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Flask (for web deployment)
+
 
 ## How to Run the App
 
