@@ -64,6 +64,16 @@ These models were trained using a full scikit-learn pipeline that included prepr
 - Flask (for web deployment)
 
 
+## Demonstration
+
+![form](screnshots/form.png)<br><br>
+
+![input1](screnshots/input-1.png)
+![output1](screnshots/output-1.png)
+<br><br>
+![input2](screnshots/input-2.png)
+![output2](screnshots/output-2.png)
+
 ## How to Run the App
 
 1. Clone the repository:
@@ -100,6 +110,3 @@ These models were trained using a full scikit-learn pipeline that included prepr
 
 - `README.md` – Project documentation
 
-## Demonstration
-
-vedio and stuff
